@@ -2,9 +2,9 @@ const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection');
 
-class Project extends Model {}
+class Games extends Model {}
 
-Project.init(
+Games.init(
   {
     id: {
 
