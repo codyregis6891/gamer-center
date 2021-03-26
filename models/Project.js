@@ -29,21 +29,20 @@ Project.init(
       type: DataTypes.STRING,
 
     },
-    date_created: {
+    genre: {
+      type: DataTypes.STRING,
+      
+      allowNull: false,
+    },
+    price: {
 
-      type: DataTypes.DATE,
+      type: DataTypes.DECIMAL,
 
       allowNull: false,
-
-      defaultValue: DataTypes.NOW,
 
     },
-    needed_funding: {
-
-      type: DataTypes.FLOAT,
-
-      allowNull: false,
-
+    user_rating: {
+      type: DataTypes.INTEGER,
     },
     user_id: {
 
