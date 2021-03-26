@@ -1,18 +1,611 @@
 [
     {
-      "name": "Music Near Me",
-      "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-      "needed_funding": 5000
+      "name": "NBA 2K21",
+      "description": "NBA 2K21 is a basketball game simulation video game",
+      "developer": "Visual Concepts",
+      "platforms": "PlayStation 4, PlayStation 5, Xbox One, Nintendo Switch, PC",
+      "publisher": "2K GAMES, 2KSports, Zhekun Inc",
+      "genre": "Sports",
+      "price": "$29.99"
     },
     {
-      "name": "The Ultimate Tech Quiz",
-      "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-      "needed_funding": 10000
+      "name": "Madden NFL 21",
+      "description": "Madden NFL 21 is an American football video game based on the National Football League",
+      "developer": "Electronic Arts, EA Tiburon",
+      "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and Series S, Google Stadia, Microsoft Windows, Android",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "price": "$19.99"
     },
     {
-      "name": "Roll 'Em Up",
-      "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-      "needed_funding": 800
+      "name": "FIFA 21",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Sports",
+      "price": ""
+    },
+    {
+      "name": "MLB The Show 21",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Sports",
+      "price": ""
+    },
+    {
+      "name": "NHL",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Sports",
+      "price": ""
+    },
+
+    {
+      "name": "Uncharted Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+    {
+      "name": "God Of War Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+    {
+      "name": "Doom Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+    {
+      "name": "Assassin's Creed Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+    {
+      "name": "Far Cry Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+
+    {
+      "name": "Fallout Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+    {
+      "name": "Grand Theft Auto Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+    {
+      "name": "Red Dead Redemption",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+    {
+      "name": "Skyrim",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+    {
+      "name": "The Witcher",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+
+    {
+      "name": "Call of Duty Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+    {
+      "name": "Battlefield Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+    {
+      "name": "Halo Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+    {
+      "name": "Escape From Tarcov",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+    {
+      "name": "Wolfenstein",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+
+    {
+      "name": "Grand Turismo Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+    {
+      "name": "Need for Speed Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+    {
+      "name": "MarioKart Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+    {
+      "name": "Foriza Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+    {
+      "name": "Burnout Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+
+    {
+      "name": "Subnautica",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+    {
+      "name": "The Forest",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+    {
+      "name": "Dont Starve",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+    {
+      "name": "Rust",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+    {
+      "name": "Minecraft",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+
+    {
+      "name": "Super Mario Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+    {
+      "name": "Spyro Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+    {
+      "name": "Crash Bandicoot Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+    {
+      "name": "Donkey Kong Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+    {
+      "name": "Sonic Adventure Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+
+    {
+      "name": "Final Fantasy Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+    {
+      "name": "Pokemon Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+    {
+      "name": "Persona Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+    {
+      "name": "Kingdom Hearts ",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+    {
+      "name": "Monster Hunter",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+
+    {
+      "name": "Resident Evil Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+    {
+      "name": "Silent Hill Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+    {
+      "name": "Metro Exodus Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+    {
+      "name": "Dead Space Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+    {
+      "name": "Outlast Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+
+    {
+      "name": "Street Fighter Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+    {
+      "name": "Mortal Kombat Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+    {
+      "name": "Tekken Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+    {
+      "name": "Super Smash Bros Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+    {
+      "name": "Soulcalibur Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+
+    {
+      "name": "Pac-Man Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+    {
+      "name": "Space Invaders",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+    {
+      "name": "Asteroids",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+    {
+      "name": "Galaga",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+    {
+      "name": "Tetris",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "description": "When an evil magician named Agahnim begins kidnapping young maidens in Hyrule in a quest to break the imprisoning seal on Ganon, a young boy named Link is called upon to stop him in this action-adventure classic.",
+      "developer": "Nintendo",
+      "platforms": "Super NES, Wii, New Nintendo 3DS, Wii U, Nintendo Switch",
+      "publisher": "Electro Source, Nintendo",
+      "genre": "Retro SNES",
+      "released":"November 21, 1992",
+      "price": ""
+    },
+    {
+      "name": "Chrono Trigger",
+      "description": "When a newly developed teleportation device malfunctions at the Millennial Fair, young Crono must travel through time to rescue his misfortunate companion from an intricate web of past and present perils in Square's beloved RPG Chrono Trigger.",
+      "developer": "Square, Tose Software",
+      "platforms": "Super NES, PlayStation, Nintendo DS, Wii, PlayStation 3, PlayStation Portable, Android, iPhone, PC",
+      "publisher": "Square Enix, Electro Source, Square",
+      "genre": "Retro SNES",
+      "released":"March 11, 1995",
+      "price": ""
+    },
+    {
+      "name": "Super Metroid",
+      "description": "In Super Metroid, players once again slip into the role of galactic bounty hunter Samus Aran and in an interesting twist on the previous games, attempt to retrieve the last surviving Metroid.",
+      "developer": "Nintendo",
+      "platforms": "Super NES, Wii, Wii U, New Nintendo 3DS, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"1994",
+      "price": ""
+    },
+    {
+      "name": "Super Mario World",
+      "description": "",
+      "developer": "Nintendo",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro SNES",
+      "released":"1991",
+      "price": ""
+    },
+    {
+      "name": "Super Street Fighter II Turbo",
+      "description": "",
+      "developer": "Capcom",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro SNES",
+      "released":"1993",
+      "price": ""
+    },
+    {
+      "name": "Super Mario World 2: Yoshi's Island",
+      "description": "",
+      "developer": "Nintendo",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro SNES",
+      "released":"1996",
+      "price": ""
+    },
+    {
+      "name": "Super Mario Kart",
+      "description": "",
+      "developer": "Nintendo",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro SNES",
+      "released":"1992",
+      "price": ""
+    },
+    {
+      "name": "Star Fox",
+      "description": "",
+      "developer": "Nintendo",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro SNES",
+      "released":"1993",
+      "price": ""
+    },
+    {
+      "name": "Mega Man X",
+      "description": "",
+      "developer": "Capcom",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro SNES",
+      "released":"1993",
+      "price": ""
+    },
+    {
+      "name": "EarthBound",
+      "description": "",
+      "developer": "Ape, HAL Laboratory",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro SNES",
+      "released":"1995",
+      "price": ""
     }
-  ]
+
+
+]
   
