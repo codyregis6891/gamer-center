@@ -19,12 +19,12 @@
     },
     {
       "name": "FIFA 21",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "FIFA is a series of association football sports video games developed and released annually by Electronic Arts under the EA Sports label. Football video games such as Sensible Soccer, Kick Off and Match Day had been developed since the late 1980s and already competitive in the games market when EA Sports announced a football game as the next addition to their EA Sports label. The Guardian called the series the slickest, most polished and by far the most popular football game around. As of 2011, the FIFA franchise has been localised into 18 languages and available in 51 countries. Listed in Guinness World Records as the best-selling sports video game franchise in the world, by 2021, the FIFA series had sold over 325 million copies. It is also one of the best-selling video game franchises.",
+      "developer": "EA Vancouver, EA Romania",
+      "platforms": "Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch, Stadia, PlayStation 5, Xbox Series X/S",
+      "publisher": "EA Sports",
       "genre": "Sports",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "MLB The Show 21",
@@ -33,7 +33,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Sports",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "NHL",
@@ -42,7 +42,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Sports",
-      "price": ""
+      "released": "October 5, 2020"
     },
 
     {
@@ -52,7 +52,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Action/Adventure",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "God Of War Series",
@@ -61,7 +61,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Action/Adventure",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Doom Series",
@@ -70,7 +70,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Action/Adventure",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Assassin's Creed Series",
@@ -79,7 +79,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Action/Adventure",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Far Cry Series",
@@ -88,7 +88,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Action/Adventure",
-      "price": ""
+      "released": "October 5, 2020"
     },
 
     {
@@ -98,7 +98,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Grand Theft Auto Series",
@@ -107,7 +107,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Red Dead Redemption",
@@ -116,7 +116,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Skyrim",
@@ -125,7 +125,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "The Witcher",
@@ -134,7 +134,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
 
     {
@@ -144,7 +144,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "FPS",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Battlefield Series",
@@ -153,7 +153,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "FPS",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Halo Series",
@@ -162,7 +162,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "FPS",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Escape From Tarcov",
@@ -171,7 +171,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "FPS",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Wolfenstein",
@@ -180,7 +180,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "FPS",
-      "price": ""
+      "released": "October 5, 2020"
     },
 
     {
@@ -190,7 +190,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Racing",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Need for Speed Series",
@@ -199,7 +199,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Racing",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "MarioKart Series",
@@ -208,7 +208,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Racing",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Foriza Series",
@@ -217,7 +217,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Racing",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Burnout Series",
@@ -226,7 +226,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Racing",
-      "price": ""
+      "released": "October 5, 2020"
     },
 
     {
@@ -236,7 +236,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Survival",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "The Forest",
@@ -245,7 +245,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Survival",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Dont Starve",
@@ -254,7 +254,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Survival",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Rust",
@@ -263,7 +263,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Survival",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Minecraft",
@@ -272,7 +272,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Survival",
-      "price": ""
+      "released": "October 5, 2020"
     },
 
     {
@@ -282,7 +282,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Platformers",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Spyro Series",
@@ -291,7 +291,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Platformers",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Crash Bandicoot Series",
@@ -300,7 +300,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Platformers",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Donkey Kong Series",
@@ -309,7 +309,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Platformers",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Sonic Adventure Series",
@@ -318,7 +318,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Platformers",
-      "price": ""
+      "released": "October 5, 2020"
     },
 
     {
@@ -328,7 +328,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Japanese RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Pokemon Series",
@@ -337,7 +337,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Japanese RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Persona Series",
@@ -346,7 +346,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Japanese RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Kingdom Hearts ",
@@ -355,7 +355,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Japanese RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Monster Hunter",
@@ -364,7 +364,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Japanese RPG",
-      "price": ""
+      "released": "October 5, 2020"
     },
 
     {
@@ -374,7 +374,7 @@
       "platforms": "",
       "publisher": "",
       "genre": "Horror",
-      "price": ""
+      "released": "October 5, 2020"
     },
     {
       "name": "Silent Hill Series",
@@ -383,126 +383,126 @@
       "platforms": "",
       "publisher": "",
       "genre": "Horror",
-      "price": ""
+      "released": ""
     },
     {
       "name": "Metro Exodus Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Metro Exodus is a first-person shooter game with survival horror and stealth elements. Set in the post-apocalyptic wasteland of the former Russian Federation and Republic of Kazakhstan, the player must cope with the new hazards and engage in combat against mutated creatures as well as hostile humans.[4][5] The player wields an arsenal of hand-made weaponry which can be customised through scavenging materials and a crafting system. The game features a mixture of linear levels and sandbox environments. It also includes a dynamic weather system, a day-night cycle, and environments that change along with the seasons as the story progresses. It is set over the course of one whole in-game year.",
+      "developer": "4A Games",
+      "platforms": "Microsoft Windows, PlayStation 4, Xbox One, Stadia, Luna, PlayStation 5, Xbox Series X/S, Linux, macOS",
+      "publisher": "Deep Silver",
       "genre": "Horror",
-      "price": ""
+      "released": ""
     },
     {
       "name": "Dead Space Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Dead Space is a science fiction survival horror video game. Players take on the role of Isaac Clarke, controlling him through a third-person perspective. Players navigate the spaceship Ishimura, completing objectives given to Isaac during the narrative, solving physics-based puzzles within the environment, and fighting monsters dubbed Necromorphs. In some parts of the ship that have decompressed, Isaac must navigate the vacuum. While in the vacuum, Isaac has a limited air supply, which can be replenished by finding air tanks within the environment. Some areas are subject to zero-G, with both Isaac and specific enemy types able to jump between surfaces; these areas have dedicated puzzles.[2][4] During exploration of the Ishimura, Isaac finds ammunition for his weapons, health pickups, and Nodes that are used to both unlock special doors and upgrade weapons and Isaac's suit. At certain points in the ship, Isaac can access a store to buy supplies and ammunition. Isaac can use a navigation line, projected onto the floor on command, to find the next mission objective.",
+      "developer": "EA Redwood Shores",
+      "platforms": "PlayStation 3, Xbox 360, Microsoft Windows",
+      "publisher": "Electronic Arts",
       "genre": "Horror",
-      "price": ""
+      "released": "October 13, 2008"
     },
     {
       "name": "Outlast Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Outlast is a first-person survival horror video game developed and published by Red Barrels. The game revolves around a freelance investigative journalist, Miles Upshur, who decides to investigate a remote psychiatric hospital named Mount Massive Asylum, located deep in the mountains of Lake County, Colorado. The downloadable content Outlast: Whistleblower centers on Waylon Park, the man who led Miles there in the first place.",
+      "developer": "Red Barrels",
+      "platforms": "Microsoft Windows, PlayStation 4, Xbox One, Android, Linux, OS X, Nintendo Switch",
+      "publisher": "Red Barrels",
       "genre": "Horror",
-      "price": ""
+      "released": "September 4, 2013"
     },
 
     {
       "name": "Street Fighter Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "In the present time, a very big international martial arts tournament has begun and it goes by the name Street Fighter. Sagat, the Emperor of Muay Thai, is the host of this tournament, the King of Street Fighters who hails from Thailand has organized his newly announced tournament by contacting four regions that are both English-speaking and Asian-speaking countries to assemble 10 other formidable Street Fighters, including Sagat’s own right-hand Muay Thai disciple, Adon. As the tournament is in progress, a 23-year-old, ki-harnessing, Shotokan-Karate master named Ryu has turned out to be the leader in the fighting ladder. Will Ryu be able stand a chance against Sagat after having what it takes to beat the other competing Street Fighters, or will he have his record broken by his own martial arts buddy Ken?",
+      "developer": "Capcom, Dimps (main series), Arika (Street Fighter EX series), Bandai Namco Studios (Warriors League series)",
+      "platforms": "Arcade, Dreamcast, GameCube, Microsoft Windows, Nintendo 64, Nintendo Switch, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, Sega Genesis, Sega Saturn, Super Nintendo Entertainment System, Xbox, Xbox 360, Xbox One, Xbox Series X/S",
+      "publisher": "Capcom",
       "genre": "Fighting",
-      "price": ""
+      "released": "August 30, 1987"
     },
     {
       "name": "Mortal Kombat Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Mortal Kombat is an arcade fighting game developed and published by Midway in 1992 it is the first entry in the Mortal Kombat series. It was subsequently released by Acclaim Entertainment for nearly every home platform of the time. The game focuses on several characters of various intentions who enter a martial arts tournament with worldly consequences. It introduced many key aspects of the Mortal Kombat series, including the unique five-button control scheme and gory finishing moves called Fatalities.",
+      "developer": "Midway Games,Avalanche Software, Eurocom, Just Games Interactive, Midway Studios Los Angeles, Other Ocean Interactive,Point of View, Inc., NetherRealm Studios",
+      "platforms": "Arcade, Dreamcast, GameCube, IBM PC compatible, Microsoft Windows, Nintendo 64, Nintendo Switch, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, Sega 32X, Sega CD, Sega Genesis, Sega Master System, Sega Saturn, Super Nintendo Entertainment System, Xbox, Xbox 360, Xbox One, Xbox Series X/S",
+      "publisher": "Midway Games, Williams Entertainment, Warner Bros. Interactive Entertainment",
       "genre": "Fighting",
-      "price": ""
+      "released": "October 8, 1992"
+    
     },
     {
       "name": "Tekken Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
-      "genre": "Fighting",
-      "price": ""
+      "description": "The main games in the series follow the events of the King of Iron Fist Tournament, hosted by the Mishima Zaibatsu, where players control a plethora of characters to win the tournament and gain control of the company; the conflict between the Mishima family serves as the main focus of the series' plot, while players explore other characters' motivations in aiming to control the Zaibatsu.Gameplay focuses on hand-to-hand combat with an opponent, with the gameplay system including blocks, throws, escapes, and ground fighting. The series later introduced combos and special moves, with characters also able to stage break arenas. Tekken is noted as being one of the first fighting games at the time to use 3D animation.",
+      "developer": "Bandai Namco Studios, Namco",
+      "platforms": "Android, Arcade, Game Boy Advance, iOS, Microsoft Windows, Nintendo 3DS, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, Wii U, Xbox 360, Xbox One, Xbox Series X/S",
+      "publisher": "Bandai Namco Entertainment, Namco, Sony Computer Entertainment",
+      "genre": "Fighting"
     },
     {
       "name": "Super Smash Bros Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Super Smash Bros. (retroactively referred to as Super Smash Bros. 64 or Smash 64) is a 1999 crossover fighting video game developed by HAL Laboratory and published by Nintendo for the Nintendo 64. It was first released in Japan on January 21, 1999, in North America on April 26, 1999, and in Europe on November 19, 1999. The first installment in the Super Smash Bros. series, it is a crossover between several different Nintendo franchises, including Mario, The Legend of Zelda, Star Fox, Yoshi, Donkey Kong, Metroid, F-Zero, Mother, Kirby, and Pokémon. It presents a cast of characters and locations from these franchises and allows players to use each character's unique skills and the stage's hazards to inflict damage, recover health, and ultimately knock opponents off the stage.",
+      "developer": "HAL Laboratory (1999–2001), Sora Ltd. (2008–present), Bandai Namco Studios (2014–present)",
+      "platforms": "Nintendo 64, iQue Player, GameCube, Wii, Nintendo 3DS, Wii U, Nintendo Switch",
+      "publisher": "Nintendo",
       "genre": "Fighting",
-      "price": ""
+      "released": "January 21, 1999"
     },
     {
       "name": "Soulcalibur Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Soulcalibur is a weapon-based fighting video game franchise by Bandai Namco Entertainment. There are seven main installments of video games and various media spin-offs, including music albums and a series of manga books",
+      "developer": "Namco",
+      "platforms": "Arcade, PlayStation, Dreamcast, PlayStation 2, GameCube, Xbox, Wii, PlayStation 3, Xbox 360, PlayStation Portable, Microsoft Windows, PlayStation 4, Xbox One",
+      "publisher": "Bandai Namco Entertainment",
       "genre": "Fighting",
-      "price": ""
+      "released": "December 1995"
     },
 
     {
-      "name": "Pac-Man Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "name": "Pac-Man",
+      "description": "Pac-Man is a maze arcade game developed and released by Namco in 1980. The original Japanese title of Puck Man was changed to Pac-Man for international releases as a preventative measure against defacement of the arcade machines by changing the P to an F. Outside Japan, the game was published by Midway Games as part of its licensing agreement with Namco America. The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. Eating large flashing dots called Power Pellets causes the ghosts to turn blue, allowing Pac-Man to eat them for bonus points.",
+      "developer": "Namco",
+      "platforms": "Arcade",
+      "publisher": "Namco, Midway",
       "genre": "Retro Arcade",
-      "price": ""
+      "released": "July 1980"
     },
     {
       "name": "Space Invaders",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Space Invaders is a 1978 arcade game developed by Tomohiro Nishikado. It was manufactured and sold by Taito in Japan and licensed in the United States by the Midway division of Bally. Within the shooter genre, Space Invaders was the first fixed shooter and set the template for the shoot 'em up genre. The goal is to defeat wave after wave of descending aliens with a horizontally moving laser to earn as many points as possible.",
+      "developer": "Taito",
+      "platforms": "Arcade, Atari 2600, Atari 5200, Atari 8-bit, MSX",
+      "publisher": "Taito, Midway",
       "genre": "Retro Arcade",
-      "price": ""
+      "released": "July 1978"
     },
     {
       "name": "Asteroids",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Asteroids is a space-themed multidirectional shooter arcade game designed by Lyle Rains and Ed Logg released in November 1979 by Atari, Inc. The player controls a single spaceship in an asteroid field which is periodically traversed by flying saucers. The object of the game is to shoot and destroy the asteroids and saucers, while not colliding with either, or being hit by the saucers' counter-fire. The game becomes harder as the number of asteroids increases.",
+      "developer": "Atari, Inc.",
+      "platforms": "Arcade, Atari 2600, Atari 7800, Atari 8-bit, Game Boy",
+      "publisher": "Atari, Inc.",
       "genre": "Retro Arcade",
-      "price": ""
+      "released": "November 1979"
     },
     {
       "name": "Galaga",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Galaga[a] is a 1981 fixed shooter arcade game developed and published by Namco. In North America, it was released by Midway Games. It is the sequel to Galaxian (1979), Namco's first major hit in arcades. Controlling a starship, the player is tasked with destroying the Galaga forces in each stage while avoiding enemies and projectiles. Some enemies can capture a player's ship via a tractor beam, which can be rescued to transform the player into a “dual fighter” with additional firepower.",
+      "developer": "Namco",
+      "platforms": "Arcade, SG-1000, MSX, Nintendo Entertainment System, Atari 7800, Game Boy, Mobile phone, Xbox 360, Roku, iOS, Xbox One, PlayStation 4, PC",
+      "publisher": "Namco, Midway",
       "genre": "Retro Arcade",
-      "price": ""
+      "released": "September 1981"
     },
     {
       "name": "Tetris",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Tetris (styled TETЯIS) is a puzzle game developed by Atari Games and originally released for arcades in 1988. Based on Alexey Pajitnov's Tetris, Atari Games' version features the same gameplay as the computer editions of the game, as players must stack differently shaped falling blocks to form and eliminate horizontal lines from the playing field. ",
+      "developer": "Atari Games",
+      "platforms": "Arcade, Nintendo Entertainment System (NES)",
+      "publisher": "Atari Games (arcade), Tengen (NES)",
       "genre": "Retro Arcade",
-      "price": ""
+      "released": "May 1989"
     },
 
     {
