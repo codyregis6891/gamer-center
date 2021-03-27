@@ -1,0 +1,811 @@
+[
+    {
+      "name": "NBA 2K21",
+      "description": "NBA 2K21 is a basketball game simulation video game",
+      "developer": "Visual Concepts",
+      "platforms": "PlayStation 4, PlayStation 5, Xbox One, Nintendo Switch, PC",
+      "publisher": "2K GAMES, 2KSports, Zhekun Inc",
+      "genre": "Sports",
+      "price": "$29.99"
+    },
+    {
+      "name": "Madden NFL 21",
+      "description": "Madden NFL 21 is an American football video game based on the National Football League",
+      "developer": "Electronic Arts, EA Tiburon",
+      "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and Series S, Google Stadia, Microsoft Windows, Android",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "price": "$19.99"
+    },
+    {
+      "name": "FIFA 21",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Sports",
+      "price": ""
+    },
+    {
+      "name": "MLB The Show 21",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Sports",
+      "price": ""
+    },
+    {
+      "name": "NHL",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Sports",
+      "price": ""
+    },
+
+    {
+      "name": "Uncharted Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+    {
+      "name": "God Of War Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+    {
+      "name": "Doom Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+    {
+      "name": "Assassin's Creed Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+    {
+      "name": "Far Cry Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Action/Adventure",
+      "price": ""
+    },
+
+    {
+      "name": "Fallout Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+    {
+      "name": "Grand Theft Auto Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+    {
+      "name": "Red Dead Redemption",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+    {
+      "name": "Skyrim",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+    {
+      "name": "The Witcher",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "RPG",
+      "price": ""
+    },
+
+    {
+      "name": "Call of Duty Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+    {
+      "name": "Battlefield Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+    {
+      "name": "Halo Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+    {
+      "name": "Escape From Tarcov",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+    {
+      "name": "Wolfenstein",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "FPS",
+      "price": ""
+    },
+
+    {
+      "name": "Grand Turismo Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+    {
+      "name": "Need for Speed Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+    {
+      "name": "MarioKart Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+    {
+      "name": "Foriza Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+    {
+      "name": "Burnout Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Racing",
+      "price": ""
+    },
+
+    {
+      "name": "Subnautica",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+    {
+      "name": "The Forest",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+    {
+      "name": "Dont Starve",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+    {
+      "name": "Rust",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+    {
+      "name": "Minecraft",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Survival",
+      "price": ""
+    },
+
+    {
+      "name": "Super Mario Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+    {
+      "name": "Spyro Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+    {
+      "name": "Crash Bandicoot Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+    {
+      "name": "Donkey Kong Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+    {
+      "name": "Sonic Adventure Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Platformers",
+      "price": ""
+    },
+
+    {
+      "name": "Final Fantasy Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+    {
+      "name": "Pokemon Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+    {
+      "name": "Persona Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+    {
+      "name": "Kingdom Hearts ",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+    {
+      "name": "Monster Hunter",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Japanese RPG",
+      "price": ""
+    },
+
+    {
+      "name": "Resident Evil Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+    {
+      "name": "Silent Hill Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+    {
+      "name": "Metro Exodus Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+    {
+      "name": "Dead Space Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+    {
+      "name": "Outlast Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Horror",
+      "price": ""
+    },
+
+    {
+      "name": "Street Fighter Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+    {
+      "name": "Mortal Kombat Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+    {
+      "name": "Tekken Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+    {
+      "name": "Super Smash Bros Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+    {
+      "name": "Soulcalibur Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Fighting",
+      "price": ""
+    },
+
+    {
+      "name": "Pac-Man Series",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+    {
+      "name": "Space Invaders",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+    {
+      "name": "Asteroids",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+    {
+      "name": "Galaga",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+    {
+      "name": "Tetris",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro Arcade",
+      "price": ""
+    },
+
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "description": "When an evil magician named Agahnim begins kidnapping young maidens in Hyrule in a quest to break the imprisoning seal on Ganon, a young boy named Link is called upon to stop him in this action-adventure classic.",
+      "developer": "Nintendo",
+      "platforms": "Super NES, Wii, New Nintendo 3DS, Wii U, Nintendo Switch",
+      "publisher": "Electro Source, Nintendo",
+      "genre": "Retro SNES",
+      "released":"November 21, 1992"
+      
+    },
+    {
+      "name": "Chrono Trigger",
+      "description": "When a newly developed teleportation device malfunctions at the Millennial Fair, young Crono must travel through time to rescue his misfortunate companion from an intricate web of past and present perils in Square's beloved RPG Chrono Trigger.",
+      "developer": "Square, Tose Software",
+      "platforms": "Super NES, PlayStation, Nintendo DS, Wii, PlayStation 3, PlayStation Portable, Android, iPhone, PC",
+      "publisher": "Square Enix, Electro Source, Square",
+      "genre": "Retro SNES",
+      "released":"March 11, 1995"
+      
+    },
+    {
+      "name": "Super Metroid",
+      "description": "In Super Metroid, players once again slip into the role of galactic bounty hunter Samus Aran and in an interesting twist on the previous games, attempt to retrieve the last surviving Metroid.",
+      "developer": "Nintendo, Nintendo R&D1, Intelligent Systems",
+      "platforms": "Super NES, Wii, Wii U, New Nintendo 3DS, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"December 31, 1994"
+      
+    },
+    {
+      "name": "Super Mario World",
+      "description": "There's no time for vacation when Bowser and his Koopalings are up to no good! Many hidden paths and a new friend called Yoshi aid Mario in making his way to Bowser's castle for the final confrontation to save the Princess!",
+      "developer": "Nintendo EAD, Nintendo",
+      "platforms": "Super NES, Wii, Wii U, New Nintendo 3DS, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"January 1, 1990"
+      
+    },
+    {
+      "name": "Super Street Fighter II Turbo",
+      "description": "This update to the classic Street Fighter II kicks everything up to Turbo levels -- more moves, playable bosses, incredible speed and so much more!",
+      "developer": "Capcom, Sensory Sweep",
+      "platforms": "Super NES, Xbox 360, Wii, Wii U, New Nintendo 3DS, Arcade",
+      "publisher": "Ingram Entertainment, Capcom",
+      "genre": "Retro SNES",
+      "released":"February 23, 1994"
+      
+    },
+    {
+      "name": "Super Mario World 2: Yoshi's Island",
+      "description": "Yoshi returns to save Baby Mario in SUPER MARIO WORLD 2: YOSHI'S ISLAND ! The Evil Magikoopa, Kamek, is out to kidnap Baby Mario. You play as Yoshi with a mission to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek's clever traps and evil minions. The levels have a unique, hand-sketched look that gives this game a style all its own.",
+      "developer": "Nintendo EAD",
+      "platforms": "Super NES, Nintendo Switch",
+      "publisher": "Electro Source, Nintendo",
+      "genre": "Retro SNES",
+      "released":"January 1, 1996"
+      
+    },
+    {
+      "name": "Super Mario Kart",
+      "description": "A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on. Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.",
+      "developer": "Nintendo EAD",
+      "platforms": "Super NES, Wii, Wii U, New Nintendo 3DS, Nintendo Switch",
+      "publisher": "Electro Source, Nintendo",
+      "genre": "Retro SNES",
+      "released":"April 12, 1992"
+      
+    },
+    {
+      "name": "Star Fox",
+      "description": "Several years after disaster was narrowly averted on Dinosaur Planet, Lylat Central Command detects a new threat spreading throughout the galaxy. The STAR FOX team is sent in to eradicate this growing menace, but what begins as a standard combat mission quickly takes a dramatic turn. Legendary team members Fox McCloud, Slippy Toad, Peppy Hare, and Falco Lombardi join forces to form the most formidable team in the history of this celebrated series: the Star Fox Armada.",
+      "developer": "Nintendo EAD, Argonaut Games",
+      "platforms": "Super NES, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"March 1, 1993"
+      
+    },
+    {
+      "name": "Mega Man X",
+      "description": "Hundreds of years after his death, Dr. Light's final creation is discovered in Mega Man X, a revolutionary leap forward into the future for Capcom's action franchise.",
+      "developer": "Capcom",
+      "platforms": "Super NES, PC, Wii, iPhone, Wii U, New Nintendo 3DS",
+      "publisher": "Ingram Entertainment, Electro Source, Capcom",
+      "genre": "Retro SNES",
+      "released":"December 17, 1993"
+      
+    },
+    {
+      "name": "EarthBound",
+      "description": "You are Ness, a kid sleeping in his home when a alien comes to you and tells you that you along with three other kids are the only ones who can save the future of Earth. Your mission: find the other three chosen ones and then stop the horrible Gigayas who are going to invade Earth.",
+      "developer": "HAL Laboratory, Ape Inc.",
+      "platforms": "Super NES, Wii U, New Nintendo 3DS",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"February 16, 1995"
+      
+    },
+    {
+      "name": "Super Mario Bros 3",
+      "description": "Super Mario Bros. 3 is a two-dimensional, side-scrolling platform game in which the player controls either Mario or Luigi. The game shares similar gameplay mechanics with previous games in the series — Super Mario Bros.",
+      "developer": "Nintendo EAD",
+      "platforms": "Nintendo Entertainment System, Game Boy Advance, Nintendo Switch, Wii, Nintendo 3DS, Wii U, PlayChoice-10",
+      "publisher": "Nintendo",
+      "genre": "Retro NES",
+      "released":"October 23, 1988"
+      
+    },
+    {
+      "name": "The Legend of Zelda",
+      "description": " Zelda was an action-adventure game with RPG elements, and in an age without the Internet, people were on their own about how to get through the game in one piece",
+      "developer": "Nintendo, Nintendo R&D4",
+      "platforms": "NES, Game Boy Advance, Wii, Nintendo 3DS, Wii U, Nintendo Switch, Famicom Disk System",
+      "publisher": "Ingram Entertainment, Nintendo",
+      "genre": "Retro NES",
+      "released":"July 1, 1987"
+      
+    },
+    {
+      "name": "Super Mario Bros",
+      "description": "In Super Mario Bros., the player takes on the role of Mario, the protagonist of the series. Mario's younger brother, Luigi, is controlled by the second player in the game's multiplayer mode and assumes the same plot role and functionality as Mario. The objective is to race through the Mushroom Kingdom, survive the main antagonist Bowser's forces, and save Princess Toadstool.[4]:7 The game is a side-scrolling platformer; the player moves from the left side of the screen to the right side in order to reach the flag pole at the end of each level.",
+      "developer": "Nintendo EAD",
+      "platforms": "NES",
+      "publisher": "Nintendo",
+      "genre": "Retro NES",
+      "released":"September 13, 1985"
+      
+    },
+    {
+      "name": "Mega Man 2",
+      "description": "As the robotic blue bomber, Mega Man, the player must battle through 14 levels and defeat eight robot masters before tackling the nefarious Dr. Wily.",
+      "developer": "Capcom",
+      "platforms": "NES, Wireless, Wii, iPhone, PlayStation Portable, PlayStation 3, Nintendo 3DS, Wii U, Android,",
+      "publisher": "Capcom",
+      "genre": "Retro NES",
+      "released":"July 30, 1989"
+      
+    },
+    {
+      "name": "Castlevania 3: Dracula's Curse",
+      "description": "Count Dracula is building up an army of evil that is set to conquer the land. This time, the vampire hunter isn't alone -- you will meet up with other characters that can join your party.",
+      "developer": "Konami",
+      "platforms": "NES, Wii, Nintendo 3DS, Wii U",
+      "publisher": "Konami",
+      "genre": "Retro NES",
+      "released":"December 31, 1990"
+      
+    },
+    {
+      "name": "Metroid",
+      "description": "In this classic game that combines action adventure and platform shooter play, players assume the role of Samus Aran, a space bounty hunter set the mission of saving the universe from the spread of the most dangerous creatures in the galaxy: Metroids.",
+      "developer": "Nintendo, Nintendo R&D1, Intelligent Systems",
+      "platforms": "Famicom Disk System, NES, Game Boy Advance, Wii, Nintendo 3DS, Wii U, Nintendo Switch",
+      "publisher": "Ingram Entertainment, Nintendo",
+      "genre": "Retro NES",
+      "released":"August 6, 1986"
+      
+    },
+    {
+      "name": "Mike Tyson's Punch-Out!!",
+      "description": "You are Little Mac, who may be the smallest boxer in the ring, but has a lot of heart. Battle your way through numerous comical boxers to fight Iron Mike for the World Video Boxing Association Title.",
+      "developer": "Nintendo R&D3",
+      "platforms": "NES",
+      "publisher": "Nintendo",
+      "genre": "Retro NES",
+      "released":"June 1, 1987"
+      
+    },
+    {
+      "name": "DuckTales",
+      "description": "Scrooge McDuck is the richest duck in the world. Regardless, he is searching the world for a lost treasure. He will have to explore jungles, castles, and mines to find all of the fortune. Help a rich duck get even richer in Duck Tales.",
+      "developer": "Capcom, Unknown",
+      "platforms": "NES, Game Boy",
+      "publisher": "Electro Source, Disney Interactive Studios, Capcom",
+      "genre": "Retro NES",
+      "released":"December 31, 1989"
+      
+    },
+    {
+      "name": "Contra",
+      "description": "In 2633 A.D., two armed Elite Marine Commandos Contra, named Bill Rizer and Lance Bean, are sent on a mission to neutralize a terrorist organization called Red Falcon that is secretly planning to take over the entire world, and it's up to this two-man-army to put an end to this madness once and for all.",
+      "developer": "Konami",
+      "platforms": "NES, Commodore 64, Arcade",
+      "publisher": "Konami",
+      "genre": "Retro NES",
+      "released":"February 20, 1987"
+      
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles II: The Arcade Game",
+      "description": "The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. Depending on the version of the game, the characters are either chosen via an in-game select screen or based on which coin slot the player placed their credit into. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder.",
+      "developer": "Konami",
+      "platforms": "NES, Commodore 64",
+      "publisher": "Konami",
+      "genre": "Retro NES",
+      "released":"November 15, 1989"
+      
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "description": "As a young boy, Link is tricked by Ganondorf, the King of the Gerudo Thieves. The evil human uses Link to gain access to the Sacred Realm, where he places his tainted hands on Triforce and transforms the beautiful Hyrulean landscape into a barren wasteland. Link is determined to fix the problems he helped to create, so with the help of Rauru he travels through time gathering the powers of the Seven Sages.",
+      "developer": "Nintendo EAD",
+      "platforms": "Nintendo 64",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"November 23, 1998"
+     
+    },
+    {
+      "name": "Super Mario 64",
+      "description": "Mario is super in a whole new way! Combining the finest 3D graphics ever developed for a video game and an explosive soundtrack, 'Super Mario 64' becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses, and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch-nemesis — Bowser, King of the Koopas!",
+      "developer": "Nintendo EAD",
+      "platforms": "Nintendo 64",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"June 23, 1996"
+      
+    },
+    {
+      "name": "Perfect Dark",
+      "description": "Step into the Dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs — breakthroughs which could have serious consequences for mankind.",
+      "developer": "Rare, 4J Studios, The Initiative",
+      "platforms": "Nintendo 64, Game Boy Color, Xbox 360",
+      "publisher": "Rare, Xbox Game Studios",
+      "genre": "Retro N64",
+      "released":"May 22, 2000"
+     
+    },
+    {
+      "name": "GoldenEye 007",
+      "description": "You are Bond. James Bond. You are assigned covert operations connected with the GoldenEye weapons satellite. M will brief you on your mission and objectives from London. Q Branch will support your efforts with a plentiful supply of weapons and gadgets. Moneypenny offers you light-hearted best wishes and you're off! Your mission begins in the heavily guarded chemical warfare facility at the Byelomorye Dam in the USSR. Look and shoot in any direction as you navigate 12 interactive 3D environments. Use stealth and force as you see fit in matters of international security. Consider the military personnel expendable. You are licensed to kill!",
+      "developer": "Rare",
+      "platforms": "Nintendo 64",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"August 25, 1997"
+      
+    },
+    {
+      "name": "Banjo-Kazooie",
+      "description": "Trouble is brewing on Spiral Mountain! Gruntilda the witch, wildly jealous of Tooty the Honey Bear's good looks; is determined to steal them for herself! But even as she whisks the helpless youngster off to her tower, Tooty's big brother Banjo and his loud-mouthed partner Kazooie are hot on the trail to rescue her… Aided by the mystical shaman Mumbo Jumbo, Banjo and Kazooie must tackle gloomy swamps, scorching deserts, towering mountain ranges and spooky haunted houses on their way to the final confrontation at the summit of Gruntilda's Lair.",
+      "developer": "Rare",
+      "platforms": "Nintendo 64, Game Boy Advance, mobile phone, Xbox 360, Xbox One",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"29 June 1998"
+      
+    },
+    {
+      "name": "Conker's Bad Fur Day",
+      "description": "The day after his 21st birthday bash, Conker's sporting the worst hangover ever, and he just can't seem to find his way home. Prepare to stagger through randy, raunchy, raucous scenarios crammed full of bad manners, twisted humor, and graphic bodily functions. Unless you're a fan of violence, foul language, and racy innuendo, you'd best steer clear of this one.",
+      "developer": "Rare",
+      "platforms": "Nintendo 64",
+      "publisher": "Rare",
+      "genre": "Retro N64",
+      "released":"March 4, 2001"
+      
+    },
+    {
+      "name": "Donkey Kong 64",
+      "description": "K. Rool has kidnapped the Kongs! Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his homeland from certain doom? Take out some Kremlings with Chunky's Pineapple Launcher or Lanky's Trombone. Float through the air using Tiny's Ponytail Twirl. Even rocket to the sky with Diddy's Jetbarrel!",
+      "developer": "Rare",
+      "platforms": "Nintendo 64",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"October 31, 1999"
+    
+    },
+    {
+      "name": "Resident Evil 2",
+      "description": "Resident Evil 2 is a 1998 survival horror video game developed and published by Capcom for the PlayStation. The player controls Leon S. Kennedy and Claire Redfield, who must escape Raccoon City after its citizens are transformed into zombies by a biological weapon two months after the events of the original Resident Evil. The gameplay focuses on exploration, puzzles, and combat; the main difference from its predecessor are the branching paths, with each player character having unique storylines, partners and obstacles.",
+      "developer": "Capcom",
+      "platforms": "PlayStation, Windows, Nintendo 64, Dreamcast, GameCube, Game.com",
+      "publisher": "Capcom",
+      "genre": "Retro N64",
+      "released":"January 21, 1998"
+    
+    },
+    {
+      "name": "Tony Hawk’s Pro Skater 2",
+      "description": "Tony Hawk's Pro Skater 2' redefined an already great game. Its addition of stellar new features (like Create-A-Park), and great game-play tweaks (the manual maneuver will be copied for years to come) made it the best installment in a killer series of games. Anyone who has ever skated the Philadelphia level will agree — this game is a masterpiece of level design. Hell, it's a masterpiece all around. There isn't a bad park or dull moment, just pure gaming nirvana!",
+      "developer": "Neversoft",
+      "platforms": "PlayStation, Microsoft Windows, Game Boy Color, Dreamcast, Game Boy Advance, Mac OS, Nintendo 64, iOS",
+      "publisher": "Activision",
+      "genre": "Retro N64",
+      "released":"August 21, 2001"
+      
+    },
+    {
+      "name": "Diddy Kong Racing",
+      "description": "Timber the Tiger's parents picked a fine time to go on vacation. When they come back, they're going to be faced with an island trashed by the spiteful space bully Wizpig - unless the local animals can do something about it! So join Diddy Kong as he teams up with Timber the Tiger, Pipsy the Mouse and Taj the Genie in an epic racing adventure unlike anything you've ever experienced before!",
+      "developer": "Rare",
+      "platforms": "Nintendo 64, Nintendo DS",
+      "publisher": "Rare",
+      "genre": "Retro N64",
+      "released":"November 24, 1997"
+      
+    }
+
+
+]
+  
