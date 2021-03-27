@@ -604,6 +604,106 @@
       "genre": "Retro SNES",
       "released":"February 16, 1995",
       "price": ""
+    },
+    {
+      "name": "Super Mario Bros 3",
+      "description": "Super Mario Bros. 3 is a two-dimensional, side-scrolling platform game in which the player controls either Mario or Luigi. The game shares similar gameplay mechanics with previous games in the series — Super Mario Bros.",
+      "developer": "Nintendo EAD",
+      "platforms": "Nintendo Entertainment System, Game Boy Advance, Nintendo Switch, Wii, Nintendo 3DS, Wii U, PlayChoice-10",
+      "publisher": "Nintendo",
+      "genre": "Retro NES",
+      "released":"October 23, 1988",
+      "price": ""
+    },
+    {
+      "name": "The Legend of Zelda",
+      "description": " Zelda was an action-adventure game with RPG elements, and in an age without the Internet, people were on their own about how to get through the game in one piece",
+      "developer": "Nintendo, Nintendo R&D4",
+      "platforms": "NES, Game Boy Advance, Wii, Nintendo 3DS, Wii U, Nintendo Switch, Famicom Disk System",
+      "publisher": "Ingram Entertainment, Nintendo",
+      "genre": "Retro NES",
+      "released":"July 1, 1987",
+      "price": ""
+    },
+    {
+      "name": "Super Mario Bros",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro NES",
+      "released":"",
+      "price": ""
+    },
+    {
+      "name": "Mega Man 2",
+      "description": "As the robotic blue bomber, Mega Man, the player must battle through 14 levels and defeat eight robot masters before tackling the nefarious Dr. Wily.",
+      "developer": "Capcom",
+      "platforms": "NES, Wireless, Wii, iPhone, PlayStation Portable, PlayStation 3, Nintendo 3DS, Wii U, Android,",
+      "publisher": "Capcom",
+      "genre": "Retro NES",
+      "released":"July 30, 1989",
+      "price": ""
+    },
+    {
+      "name": "Castlevania 3: Dracula's Curse",
+      "description": "Count Dracula is building up an army of evil that is set to conquer the land. This time, the vampire hunter isn't alone -- you will meet up with other characters that can join your party.",
+      "developer": "Konami",
+      "platforms": "NES, Wii, Nintendo 3DS, Wii U",
+      "publisher": "Konami",
+      "genre": "Retro NES",
+      "released":"December 31, 1990",
+      "price": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro NES",
+      "released":"",
+      "price": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro NES",
+      "released":"",
+      "price": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro NES",
+      "released":"",
+      "price": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro NES",
+      "released":"",
+      "price": ""
+    },
+    {
+      "name": "",
+      "description": "",
+      "developer": "",
+      "platforms": "",
+      "publisher": "",
+      "genre": "Retro NES",
+      "released":"",
+      "price": ""
     }
 
 
