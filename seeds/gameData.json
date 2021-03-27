@@ -6,7 +6,7 @@
       "platforms": "PlayStation 4, PlayStation 5, Xbox One, Nintendo Switch, PC",
       "publisher": "2K GAMES, 2KSports, Zhekun Inc",
       "genre": "Sports",
-      "price": "$29.99"
+      "released": "November 10, 2020"
     },
     {
       "name": "Madden NFL 21",
@@ -15,7 +15,7 @@
       "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and Series S, Google Stadia, Microsoft Windows, Android",
       "publisher": "EA Sports",
       "genre": "Sports",
-      "price": "$19.99"
+      "released": "August 28, 2020"
     },
     {
       "name": "FIFA 21",
@@ -28,270 +28,270 @@
     },
     {
       "name": "MLB The Show 21",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "MLB The Show 21 is an upcoming baseball video game by San Diego Studio and published by Sony Interactive Entertainment, based on Major League Baseball (MLB). The sixteenth entry of the MLB: The Show franchise, it is set to be released on April 20, 2021. San Diego Padres shortstop Fernando Tatís Jr. is featured as the cover star, and at age 22 is the youngest player to do so.",
+      "developer": "San Diego Studio",
+      "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+      "publisher": "Sony Interactive Entertainment",
       "genre": "Sports",
-      "released": "October 5, 2020"
+      "released": "April 20, 2021"
     },
     {
-      "name": "NHL",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "name": "NHL 21",
+      "description": "NHL 21 is an ice hockey simulation video game developed by EA Vancouver and published by EA Sports. It is the 30th installment in the NHL game series and was released for the PlayStation 4 and Xbox One consoles in October 2020.",
+      "developer": "EA Vancouver",
+      "platforms": "PlayStation 4, Xbox One",
+      "publisher": "EA Sports",
       "genre": "Sports",
-      "released": "October 5, 2020"
+      "released": "October 16, 2020"
     },
 
     {
       "name": "Uncharted Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "The main series began with Uncharted: Drake's Fortune, released on the PlayStation 3 in 2007, followed by its sequels Uncharted 2: Among Thieves (2009), Uncharted 3: Drake's Deception (2011), with the final installment, Uncharted 4: A Thief's End, released on the PlayStation 4 in 2016. A prequel, Uncharted: Golden Abyss, was released for Sony's PlayStation Vita handheld system in 2011, followed by the card game spin-off Uncharted: Fight for Fortune in 2012. A standalone game to the series, Uncharted: The Lost Legacy, was released in 2017, with Chloe Frazer as the game's playable protagonist.",
+      "developer": "Naughty Dog, Bend Studio, Bluepoint Games, Playspree",
+      "platforms": "PlayStation 3, PlayStation 4, PlayStation Vita, Android, iOS",
+      "publisher": "Sony Interactive Entertainment",
       "genre": "Action/Adventure",
-      "released": "October 5, 2020"
+      "released": "November 19, 2007"
     },
     {
       "name": "God Of War Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "God of War is an action-adventure game franchise created by David Jaffe at Sony's Santa Monica Studio. It began in 2005 on the PlayStation 2 (PS2) video game console, and has become a flagship title for the PlayStation brand, consisting of eight games across multiple platforms with a ninth currently in development. Based in ancient mythology, the story follows Kratos, a Spartan warrior who was tricked into killing his family by his former master, the Greek God of War Ares. This sets off a series of events that leads to wars with the mythological pantheons. The Greek mythology era of the series sees Kratos follow a path of vengeance due to the machinations of the Olympian gods, while the Norse mythology era, which introduces his son Atreus as a secondary protagonist, shows an older Kratos on a path of redemption, which inadvertently brings the two into conflict with the Norse gods.",
+      "developer": "Santa Monica Studio, Ready at Dawn, Javaground/SOE-LA",
+      "platforms": "PlayStation 2, Java ME, PlayStation Portable, PlayStation 3, PlayStation Vita, PlayStation 4, PlayStation 5",
+      "publisher": "Sony Interactive Entertainment, Sony Pictures Digital",
       "genre": "Action/Adventure",
-      "released": "October 5, 2020"
+      "released": "March 22, 2005"
     },
     {
       "name": "Doom Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting his way through hordes of invading demons from Hell. The first episode, comprising nine levels, was distributed freely as shareware and played by an estimated 15–20 million people within two years; the full game, with two further episodes, was sold via mail order. An updated version with an additional episode and more difficult levels, The Ultimate Doom, was released in 1995 and sold at retail.",
+      "developer": "id Software",
+      "platforms": "MS-DOS, Sega 32X, Atari Jaguar, Mac OS, Amiga OS, PC-98, SNES, PlayStation, 3DO, Windows 95, Sega Saturn, Acorn Archimedes, Game Boy Advance, Xbox 360, iOS, PlayStation 3, Android, Nintendo Switch, PlayStation 4, Xbox One",
+      "publisher": "id Software",
       "genre": "Action/Adventure",
-      "released": "October 5, 2020"
+      "released": "December 10, 1993"
     },
     {
       "name": "Assassin's Creed Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Assassin's Creed is an open-world action-adventure stealth video game franchise published by Ubisoft and developed mainly by its studio Ubisoft Montreal using the game engine Anvil and its more advanced derivatives. Created by Patrice Désilets, Jade Raymond, and Corey May, the Assassin's Creed series depicts a fictional millennia-old struggle between the Assassins, who fight for peace with free will, and the Templars, who desire peace through order and control. The series features historical fiction, science fiction and fictional characters intertwined with real-world historical events and figures. For the majority of time players control an Assassin in the past history, while also playing as Desmond Miles or an Assassin Initiate in the present day, who hunt down their Templar targets. The series took inspiration from the novel Alamut by the Slovenian writer Vladimir Bartol, based on the historical Hashashin sect of the medieval Middle East, while building upon concepts from the Prince of Persia series.",
+      "developer": "Ubisoft Montreal, Ubisoft Annecy, Ubisoft Sofia, Ubisoft Milan, Ubisoft Quebec, Ubisoft Toronto, Gameloft, Griptonite Games, Blue Byte",
+      "platforms": "Luna, Microsoft Windows, PlayStation 4, Stadia, Xbox One, Xbox Series X/S, PlayStation 5",
+      "publisher": "Ubisoft",
       "genre": "Action/Adventure",
-      "released": "October 5, 2020"
+      "released": "November 13, 2007"
     },
     {
       "name": "Far Cry Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Far Cry is a franchise of first-person shooter games, all of which have been published by Ubisoft. The first game, Far Cry, was developed by Crytek to premiere their CryEngine software, and released in March 2004. Subsequently, Ubisoft obtained the rights to the franchise and the bulk of the development is handled by Ubisoft Montreal with assistance from other Ubisoft satellite studios. The following games in the series have used a Ubisoft-modified version of the CryEngine, the Dunia Engine, allowing for open world gameplay. There have been five main games in the series, along with three standalone expansions; the first game, initially developed for Microsoft Windows, also saw a number of ports to video game consoles.",
+      "developer": "Crytek (2004), Ubisoft Montreal (2005–), Ubisoft Toronto (2018–)",
+      "platforms": "Microsoft Windows, Xbox, Xbox 360, Wii, Arcade, PlayStation 3, PlayStation 4, Xbox One",
+      "publisher": "Ubisoft",
       "genre": "Action/Adventure",
-      "released": "October 5, 2020"
+      "released": "March 23, 2004"
     },
 
     {
       "name": "Fallout Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Fallout is a series of post-apocalyptic role-playing video games—and later action role-playing games—created by Interplay Entertainment. The series is set during the 21st, 22nd and 23rd centuries, and its atompunk retrofuturistic setting and art work are influenced by the post-war culture of 1950s United States, with its combination of hope for the promises of technology and the lurking fear of nuclear annihilation. A forerunner of Fallout is Wasteland, a 1988 game developed by Interplay Productions to which the series is regarded as a spiritual successor.",
+      "developer": "Interplay Entertainment, Black Isle Studios, Micro Forté, Bethesda Game Studios, Obsidian Entertainment",
+      "platforms": "DOS, Microsoft Windows, Mac OS, Mac OS X, PlayStation 2, PlayStation 3, PlayStation 4, Xbox, Xbox 360, Xbox One, Nintendo Switch",
+      "publisher": "Interplay Entertainment (1997–2004), 14 Degrees East (2001), Bethesda Softworks (since 2004)",
       "genre": "RPG",
-      "released": "October 5, 2020"
+      "released": "October 10, 1997"
     },
     {
       "name": "Grand Theft Auto Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Gameplay focuses on an open world where the player can complete missions to progress an overall story, as well as engage in various side activities. Most of the gameplay revolves around driving and shooting, with occasional role-playing and stealth elements. The series also has elements of the earlier beat 'em up games from the 16-bit era. The games in the Grand Theft Auto series are set in fictional locales modelled after real-life cities, at various points in time from the early 1960s to the 2010s. The original game's map encompassed three cities—Liberty City (based on New York City), San Andreas (based on San Francisco),[a] and Vice City (based on Miami)—but later titles tend to focus on a single setting; usually one of the original three locales, albeit remodelled and significantly expanded. The series centers on different protagonists who attempt to rise through the ranks of the criminal underworld, although their motives for doing so vary in each title. The antagonists are commonly characters who have betrayed the protagonist or their organisation, or characters who have the most impact impeding the protagonist's progress",
+      "developer": "Rockstar North, Digital Eclipse, Rockstar Leeds, Rockstar Canada",
+      "platforms": "Android, Dreamcast, Fire OS, Game Boy Advance, Game Boy Color, iOS, macOS, Microsoft Windows, MS-DOS, Nintendo DS, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable, Windows Phone, Xbox, Xbox 360, Xbox One, Xbox Series X/S",
+      "publisher": "Rockstar Games",
       "genre": "RPG",
-      "released": "October 5, 2020"
+      "released": "October 21, 1997"
     },
     {
       "name": "Red Dead Redemption",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "The game is played from a third-person perspective. The player may freely roam in its interactive open world, a fictionalized version of the Western United States and Mexico, primarily by horseback and on foot. Gunfights emphasize a gunslinger gameplay mechanic called Dead Eye that allows players to mark multiple shooting targets on enemies in slow motion. The game makes use of a morality system, by which the player's actions in the game affect their character's levels of honor and fame and how other characters respond to the player. An online multiplayer mode is included with the game, allowing up to 16 players to engage in both cooperative and competitive gameplay in a recreation of the single-player setting.",
+      "developer": "Rockstar Studios",
+      "platforms": "PlayStation 4, Xbox One, Microsoft Windows, Stadia",
+      "publisher": "Rockstar Games",
       "genre": "RPG",
-      "released": "October 5, 2020"
+      "released": "October 26, 2018"
     },
     {
       "name": "Skyrim",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "The game's main story revolves around the player's character, the Dragonborn, on their quest to defeat Alduin the World-Eater, a dragon who is prophesied to destroy the world. The game is set 200 years after the events of Oblivion and takes place in Skyrim, the northernmost province of Tamriel. Over the course of the game, the player completes quests and develops the character by improving skills. The game continues the open-world tradition of its predecessors by allowing the player to travel anywhere in the game world at any time, and to ignore or postpone the main storyline indefinitely.",
+      "developer": "Bethesda Game Studios",
+      "platforms": "Microsoft Windows, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Nintendo Switch",
+      "publisher": "Bethesda Softworks",
       "genre": "RPG",
-      "released": "October 5, 2020"
+      "released": "November 11, 2011"
     },
     {
       "name": "The Witcher",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "The Witcher is a series of fantasy action role-playing games developed by CD Projekt Red and published by CD Projekt. It is based on the book series of the same name by Polish writer Andrzej Sapkowski, acting as sequels to the story of the books. The main series began in 2007 with the release of The Witcher, and concluded with 2015's The Witcher 3: Wild Hunt. As of 2020, the series has three main standalone games, two expansion packs and three spin-off games. The Witcher 3: Wild Hunt is the most successful game in the series selling over 28 million copies. The series has been critically acclaimed and commercially successful selling over 50 million copies.",
+      "developer": "CD Projekt Red, Fuero Games",
+      "platforms": "Xbox 360, Microsoft Windows, OS X, Linux, Xbox One, Nintendo Switch, Playstation 4, Xbox Series X/S, Playstation 5",
+      "publisher": "Atari, CD Projekt",
       "genre": "RPG",
-      "released": "October 5, 2020"
+      "released": "October 26, 2007"
     },
 
     {
       "name": "Call of Duty Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space. The games were first developed by Infinity Ward, then also by Treyarch and Sledgehammer Games. Several spin-off and handheld games were made by other developers. The most recent title, Call of Duty: Black Ops Cold War, was released on November 13, 2020.",
+      "developer": "Infinity Ward (2003–present), Treyarch (2005–present), Sledgehammer Games (2011–present), Raven Software (2020)",
+      "platforms": "Microsoft Windows, OS X, Nintendo DS, GameCube, Nokia N-Gage, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable, PlayStation Vita, Wii, Wii U, Xbox, Xbox 360, Xbox One, Xbox Series X/S, iOS, Android, BlackBerry, J2ME",
+      "publisher": "Activision",
       "genre": "FPS",
-      "released": "October 5, 2020"
+      "released": "October 29, 2003"
     },
     {
       "name": "Battlefield Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Battlefield series games usually focus on large, online multiplayer battles. Playing in squads has become a major element of games in the series. Since Battlefield 2, the series centrally recorded online stats for each player, allowing users to receive rank promotions and weapon unlocks based on their performance as well as awards such as medals, ribbons, and pins. A class system is present within all the Battlefield games. Each class features a different type of primary weapon along with different equipment, differentiating roles on the battlefield. The ability to engage other players in melee combat with a knife has been present in Battlefield games. Since Battlefield 2142, the series has included an award of dog tags for each player killed using a knife.",
+      "developer": "EA DICE (2002–), Easy Studios (2009, 2011), Neowiz Games (2010), Visceral Games (2015), Criterion Games (2019, 2021–)",
+      "platforms": "Microsoft Windows, OS X, PlayStation 2, Xbox, PlayStation 3, Xbox 360, PlayStation 4, Xbox One",
+      "publisher": "Electronic Arts",
       "genre": "FPS",
-      "released": "October 5, 2020"
+      "released": "September 10, 2002"
     },
     {
       "name": "Halo Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Halo is an American military science fiction media franchise managed and developed by 343 Industries and published by Xbox Game Studios. The franchise and its early main installments were originally developed by Bungie. The central focus of the franchise builds off the experiences of Master Chief John-117, one of a group of supersoldiers codenamed Spartans, and his artificial intelligence (AI) companion, Cortana.",
+      "developer": "Bungie (2001–2010), Ensemble Studios (2009), 343 Industries (2011–present), Creative Assembly (2017)",
+      "platforms": "Xbox, Microsoft Windows, macOS, Xbox 360, Windows Phone, iOS, Xbox One, Arcade, Xbox Series X/S",
+      "publisher": "Xbox Game Studios",
       "genre": "FPS",
-      "released": "October 5, 2020"
+      "released": "November 15, 2001"
     },
     {
       "name": "Escape From Tarcov",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Escape from Tarkov is a multiplayer first-person shooter video game in development by Battlestate Games for Windows. A closed alpha test of the game was first made available to select users on August 4, 2016, followed by a closed beta which has been running since July 2017. The game is set in the fictional Norvinsk region, where a war is taking place between two private military companies (United Security USEC and the Battle Encounter Assault Regiment BEAR). Players join matches in which they fight other players for loot and aim to survive and escape; dying results in the loss of almost all items the player used and found during that game.",
+      "developer": "Battlestate Games",
+      "platforms": "Microsoft Windows",
+      "publisher": "Battlestate Games",
       "genre": "FPS",
-      "released": "October 5, 2020"
+      "released": "Closed beta released on July 27, 2017"
     },
     {
       "name": "Wolfenstein",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Wolfenstein is a series of World War II video games. It was originally created by Muse Software, before being revived by id Software. The first two games in the series, Castle Wolfenstein and Beyond Castle Wolfenstein, were developed by Muse Software and focused on stealth-based gameplay from a top-down perspective. Beginning with id Software's Wolfenstein 3D, Wolfenstein games became fast-paced first-person shooters, and are widely regarded as having helped to popularize the first-person shooter genre. Further games in the series include Return to Castle Wolfenstein, developed by Gray Matter Interactive, Wolfenstein: Enemy Territory by Splash Damage, and 2009's Wolfenstein by Raven Software. After ZeniMax Media acquired id Software, including the Wolfenstein franchise, Swedish developer MachineGames became the series' primary developer. Wolfenstein games developed by MachineGames include Wolfenstein: The New Order, Wolfenstein: The Old Blood, Wolfenstein II: The New Colossus, Wolfenstein: Youngblood, and Wolfenstein: Cyberpilot. The majority of the games follow William B.J. Blazkowicz, a Jewish Polish-American Army Captain and his fight against the Axis powers. Earlier titles are centered around Nazis attempting to harness supernatural and occult forces. Those developed by MachineGames are set in an alternate history in which Axis powers won World War II.",
+      "developer": "Muse Software (1981–1984), id Software (1992, 2008), Gray Matter Interactive (2001), Splash Damage (2003), Fountainhead Entertainment (2008), Raven Software (2009), MachineGames (2014–present), Arkane Lyon (2019)",
+      "platforms": "3DO Interactive Multiplayer, Acorn Archimedes, Amiga 1200, AmigaOS 4, Apple II, Atari Jaguar, Classic Mac OS, Commodore 64, Game Boy Advance, iOS, Microsoft Windows, MS-DOS, NEC PC-9801, Nintendo Switch, OS X, PlayStation 2, PlayStation 3, PlayStation 4, Stadia, Super Nintendo Entertainment System, Windows Mobile, Xbox, Xbox 360, Xbox One",
+      "publisher": "Muse Software (1981–1984), Apogee Software (1992), FormGen (1992), Activision (2001–2003, 2009), EA Mobile (2008), Bethesda Softworks (2014–present)",
       "genre": "FPS",
-      "released": "October 5, 2020"
+      "released": "September 1981"
     },
 
     {
       "name": "Grand Turismo Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Gran Turismo (GT) is a series of racing simulation video games developed by Polyphony Digital. Developed for PlayStation systems, Gran Turismo games are intended to emulate the appearance and performance of a large selection of vehicles, most of which are licensed reproductions of real-world automobiles. Since the franchise's debut in 1997, over 80 million units have been sold worldwide for the PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, and PlayStation Portable, making it the highest selling video game franchise under the PlayStation brand.",
+      "developer": "Polyphony Digital",
+      "platforms": "PlayStation, PlayStation 2, PlayStation 3, PlayStation Portable, PlayStation 4, PlayStation 5",
+      "publisher": "Sony Interactive Entertainment",
       "genre": "Racing",
-      "released": "October 5, 2020"
+      "released": "December 23, 1997"
     },
     {
       "name": "Need for Speed Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Need for Speed (NFS) is a racing video game franchise published by Electronic Arts and currently developed by Criterion Games, the developers of Burnout. The series centers around illicit street racing and in general tasks players to complete various types of races while evading the local law enforcement in police pursuits. The series released its first title, The Need for Speed, in 1994. The most recent game, Need for Speed: Hot Pursuit Remastered, was released on November 6, 2020.",
+      "developer": "Criterion Games",
+      "platforms": "Microsoft Windows, Game Boy Advance, GameCube, PlayStation 2, Xbox, PlayStation Portable, Nintendo DS",
+      "publisher": "Electronic Arts",
       "genre": "Racing",
-      "released": "October 5, 2020"
+      "released": "August 31, 1994"
     },
     {
       "name": "MarioKart Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Mario Kart is a series of go-kart-style racing video games developed and published by Nintendo as spin-offs from its trademark Super Mario series. The games feature characters from the Mario franchise and other game series, including The Legend of Zelda and Animal Crossing, competing in races while using various items to gain advantage.",
+      "developer": "Nintendo EAD (1992-2014), Nintendo EPD (2017-present), Intelligent Systems (Super Circuit), Retro Studios (Mario Kart 7), Namco/Bandai Namco (Mario Kart Arcade GP Velan Studios (Mario Kart Live: Home Circuit)",
+      "platforms": "Super Nintendo Entertainment System, Nintendo 64, iQue Player, Game Boy Advance, GameCube, Nintendo DS, Arcade, Wii, Nintendo 3DS, Wii U, Nintendo Switch, iOS, Android",
+      "publisher": "Nintendo",
       "genre": "Racing",
-      "released": "October 5, 2020"
+      "released": "August 27, 1992"
     },
     {
-      "name": "Foriza Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "name": "Forza Series",
+      "description": "Forza Motorsport is a simulation racing video game. Players compete in events around the globe using real licensed cars on a variety of real world and fictional courses. It features an arcade mode, meant more for quickplay of races, and a career mode, which is focused on long-term play. Career mode spans several racing disciplines, spanning from racing of common commuter cars to those in racing series such as Super GT and Deutsche Tourenwagen Masters as well as other sports car racing series. To help players acclimate to the simulation style of racing, assists such as an ideal racing line, anti-lock brakes and traction control can be used. There are 231 cars in Forza Motorsport ranging from a Honda Civic to supercars such as the Enzo Ferrari and Le Mans race prototypes such as the Audi R8. There are nine classes of cars, spanning standard production vehicles to sports and high performance cars to purpose-built race cars. Each car can be upgraded and tuned with a large number of extras and parts.",
+      "developer": "Turn 10 Studios, Playground Games, Sumo Digital",
+      "platforms": "Xbox, Xbox 360, Xbox One, Xbox Series X and Series S, Microsoft Windows, iOS, Android",
+      "publisher": "Xbox Game Studios",
       "genre": "Racing",
-      "released": "October 5, 2020"
+      "released": "May 3, 2005"
     },
     {
       "name": "Burnout Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Burnout was the first in a series of high-speed racing games noted for over-the-top crashes and high-risk gameplay mechanics.",
+      "developer": "Criterion Games",
+      "platforms": "GameCube, Microsoft Windows, Nintendo DS, Nintendo Switch, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, Xbox, Xbox 360, Xbox One",
+      "publisher": "Acclaim Entertainment (2001–2002), Electronic Arts (2004–present)",
       "genre": "Racing",
-      "released": "October 5, 2020"
+      "released": "November 1, 2001"
     },
 
     {
       "name": "Subnautica",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Subnautica is a survival action-adventure game set in an open world environment and played from a first-person perspective. The player controls the lone survivor of a waylaid spacecraft called the Aurora, stranded on a remote ocean planet named 4546B.The main objective is to explore the ocean and survive its dangers, while also completing tasks to advance the plot. Players can collect resources, construct tools, bases, and submersibles, and interact with the planet's wildlife.",
+      "developer": "Unknown Worlds Entertainment",
+      "platforms": "Microsoft Windows, MacOS, Xbox One, PlayStation 4, Nintendo Switch",
+      "publisher": "Unknown Worlds Entertainment",
       "genre": "Survival",
-      "released": "October 5, 2020"
+      "released": "January 23, 2018"
     },
     {
       "name": "The Forest",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "The Forest is a survival horror video game developed and published by Endnight Games. The game takes place on a remote, heavily forested peninsula where the player character Eric Leblanc and his son Timmy are survivors of a plane crash. The game features nonlinear gameplay in an open world environment played from a first-person perspective, with no set missions or quests, empowering the player to make their own decisions for survival. Following a four-year long early access beta phase, the game was released for Microsoft Windows in April 2018, and for the PlayStation 4 in November 2018. The game was also a commercial success, selling over five million copies by the end of 2018. A sequel, Sons of the Forest, is under development.",
+      "developer": "Endnight Games",
+      "platforms": "Microsoft Windows, PlayStation 4",
+      "publisher": "Endnight Games",
       "genre": "Survival",
-      "released": "October 5, 2020"
+      "released": "April 30, 2018"
     },
     {
       "name": "Dont Starve",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Don't Starve is a survival video game developed by the Canadian indie video game developer Klei Entertainment. The game was initially released for Microsoft Windows, OS X, and Linux on April 23, 2013. A PlayStation 4 port, renamed Don't Starve: Giant Edition, became available the following year (with PlayStation Vita and PlayStation 3 versions released on September 2014 and June 2015 respectively, and an Xbox One version released in August 2015). Don't Starve for iOS, renamed Don't Starve: Pocket Edition was released on July 9, 2015. An Android version was released on October 20, 2016. Downloadable content titled Reign of Giants was released on April 30, 2014, and a multiplayer expansion called Don't Starve Together became free for existing users on June 3, 2015. On Steam, this game is able to be purchased with a free copy for a friend. A Nintendo Switch port came out on April 12, 2018.",
+      "developer": "Klei Entertainment",
+      "platforms": "Android, iOS, Linux, Microsoft Windows, OS X, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox One, Nintendo Switch",
+      "publisher": "Klei Entertainment",
       "genre": "Survival",
-      "released": "October 5, 2020"
+      "released": "April 23, 2013"
     },
     {
       "name": "Rust",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Rust is a multiplayer-only survival video game developed by Facepunch Studios. Rust was first released in early access in December 2013 and received its full release in February 2018. Rust is available on Microsoft Windows and macOS. Console versions for PlayStation and Xbox have been announced soon to release in 2021. Rust was initially created as a clone of DayZ, a popular mod for ARMA 2, with crafting elements akin to those in Minecraft.",
+      "developer": "Facepunch Studios",
+      "platforms": "macOS, Microsoft Windows, Xbox One, PlayStation 4",
+      "publisher": "Facepunch Studios",
       "genre": "Survival",
-      "released": "October 5, 2020"
+      "released": "February 8, 2018"
     },
     {
       "name": "Minecraft",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Minecraft is a sandbox video game developed by Mojang. The game was created by Markus Notch Persson in the Java programming language. Following several early test versions, it was released as a paid public alpha for personal computers in 2009 before releasing in November 2011, with Jens Bergensten taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time, with 200 million copies sold and 126 million monthly active users as of 2020.",
+      "developer": "Mojang",
+      "platforms": "Windows, OS X, Linux, Android, iOS, Xbox 360, Raspberry Pi, Windows Phone, PlayStation 3, Fire OS, PlayStation 4, Xbox One, PlayStation Vita, Universal Windows Platform, Wii U, tvOS, Nintendo Switch, New Nintendo 3DS",
+      "publisher": "Mojang, Microsoft Studios, Sony Interactive Entertainment",
       "genre": "Survival",
-      "released": "October 5, 2020"
+      "released": "November 18, 2011"
     },
 
     {
       "name": "Super Mario Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Super Mario is a platform game series created by Nintendo, featuring their mascot, Mario. Alternatively called the Super Mario Bros. series or simply the Mario series, it is the central series of the greater Mario franchise. At least one Super Mario game has been released for every major Nintendo video game console. There have also been a number of Super Mario video games released on non-Nintendo gaming platforms. There are currently twenty-one similar games and one cross-series game that may or may not be included as part of the series.",
+      "developer": "Nintendo EAD (1985–2015), Nintendo EPD (since 2015)",
+      "platforms": "Arcade, NES, SNES, N64, Wii, Wii U, Nintendo Switch, GameCube, Game Boy",
+      "publisher": "Nintendo",
       "genre": "Platformers",
-      "released": "October 5, 2020"
+      "released": "September 13, 1985"
     },
     {
       "name": "Spyro Series",
-      "description": "",
+      "description": "Spyro is a series of platform video games which features the main protagonist Spyro, a dragon. Since the series' introduction in 1998 with the PlayStation game Spyro the Dragon, there have been numerous sequels and a reboot trilogy. Originally owned by Universal Pictures (via the defunct Universal Interactive) and created by Insomniac Games, the franchise has changed hands and developers numerous times before the rights to the intellectual property were acquired by Activision in 2008.",
       "developer": "Insomniac Games (1998–2000), Digital Eclipse (2001–2003), Check Six Studios & Equinoxe (2002), Vicarious Visions (2004, 2011), Eurocom (2004), Amaze Entertainment (2005-07), Krome Studios (2006-2007), Étranges Libellules (2008), Tantalus Media (2008), Toys for Bob (2011, 2018)",
-      "platforms": "",
-      "publisher": "",
+      "platforms": "Game Boy Advance, GameCube, Microsoft Windows, Nintendo DS, Nintendo Switch, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, Wii, Xbox, Xbox 360, Xbox One",
+      "publisher": "Sony Computer Entertainment (1998–2000), Vivendi Universal Games (2001–2007),Activision (2008–present)",
       "genre": "Platformers",
-      "released": "October 5, 2020"
+      "released": "September 9, 1998"
     },
     {
       "name": "Crash Bandicoot Series",
