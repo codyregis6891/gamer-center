@@ -378,12 +378,12 @@
     },
     {
       "name": "Silent Hill Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Silent Hill is a survival horror video game for the PlayStation published by Konami and developed by Team Silent, a group in Konami Computer Entertainment Tokyo. The first installment in the Silent Hill series, the game was released in North America in February 1999, in Japan in March 1999 and in Europe in July 1999. Silent Hill uses a third-person view, with real-time rendering of 3D environments. To mitigate limitations of the console hardware, developers liberally used fog and darkness to muddle the graphics. Unlike earlier survival horror games that focused on protagonists with combat training, the player character of Silent Hill is an everyman.",
+      "developer": "Konami Computer Entertainment Tokyo (Team Silent)",
+      "platforms": "PlayStation, Game Boy Advance, PlayStation 2, Xbox, Microsoft Windows, PlayStation Portable, PlayStation 3, Xbox 360, Wii, PlayStation Vita, PlayStation 4",
+      "publisher": "Konami",
       "genre": "Horror",
-      "released": ""
+      "released": "February 23, 1999"
     },
     {
       "name": "Metro Exodus Series",
@@ -392,7 +392,7 @@
       "platforms": "Microsoft Windows, PlayStation 4, Xbox One, Stadia, Luna, PlayStation 5, Xbox Series X/S, Linux, macOS",
       "publisher": "Deep Silver",
       "genre": "Horror",
-      "released": ""
+      "released": "February 15, 2019"
     },
     {
       "name": "Dead Space Series",
