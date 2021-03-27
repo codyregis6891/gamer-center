@@ -287,7 +287,7 @@
     {
       "name": "Spyro Series",
       "description": "",
-      "developer": "",
+      "developer": "Insomniac Games (1998–2000), Digital Eclipse (2001–2003), Check Six Studios & Equinoxe (2002), Vicarious Visions (2004, 2011), Eurocom (2004), Amaze Entertainment (2005-07), Krome Studios (2006-2007), Étranges Libellules (2008), Tantalus Media (2008), Toys for Bob (2011, 2018)",
       "platforms": "",
       "publisher": "",
       "genre": "Platformers",
@@ -295,86 +295,86 @@
     },
     {
       "name": "Crash Bandicoot Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Crash Bandicoot is a franchise of video games, originally developed by Naughty Dog as an exclusive for Sony's PlayStation console and has seen numerous installments created by numerous developers and published on multiple platforms. The series consists predominantly of platform games, but also includes spin-offs in the kart racing and party game genres. The series was originally produced by Universal Interactive, which later became known as Vivendi Games; in 2007, Vivendi merged with Activision, which currently owns and publishes the franchise.",
+      "developer": "Naughty Dog (1996–1999), Traveller's Tales (2001–2004), Vicarious Visions (2002–2004, 2017), Radical Entertainment (2005–2008), Toys for Bob (2020–present)",
+      "platforms": "Android, BlackBerry, Game Boy Advance, GameCube, iOS, Java ME, Microsoft Windows, N-Gage, Nintendo DS, Nintendo Switch, PlayStation, PlayStation 2, PlayStation 4, PlayStation 5, PlayStation Portable, Wii, Xbox, Xbox 360, Xbox One, Xbox Series X/S, Zeebo",
+      "publisher": "Sony Computer Entertainment (1996–2000), Universal Interactive (2001–2003), Vivendi Games (2004–2008), Activision (2008–present)",
       "genre": "Platformers",
-      "released": "October 5, 2020"
+      "released": "September 9, 1996"
     },
     {
       "name": "Donkey Kong Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Donkey Kong is a series of video games featuring the adventures of an ape-like character called Donkey Kong, conceived by Shigeru Miyamoto in 1981. The franchise consists mainly of two game genres, but also includes additional spin-off titles of various genres. The games of the first genre are mostly single-screen platform/action puzzle types, featuring Donkey Kong as the opponent in an industrial construction setting. Donkey Kong first made his appearance in the 1981 arcade machine called Donkey Kong, in which he faced Jumpman (Mario). This game was also the first appearance of Mario, pre-dating the iconic video game Super Mario Bros. by four years and Mario's first non-Donkey Kong game (Mario Bros.) by two. In 1994, the series was revived as the Donkey Kong Country series, featuring Donkey Kong and his clan of other apes as protagonists in their native jungle setting versus a variety of anthropomorphic enemies, usually against the Kremlings, a clan of crocodiles and their leader King K. Rool. These are side-scrolling platform games. Titles outside these two genres have included rhythm games (Donkey Konga), racing games (Diddy Kong Racing) and edutainment (Donkey Kong Jr. Math).",
+      "developer": "Nintendo R&D1 (1981–1984), Nintendo R&D2 (1983–1987), Nintendo EAD (1994–2009), Rare (1994–2007), Namco (2003–2005), Nintendo Software Technology (2004–2015), Paon (2005–2007), Retro Studios (2010–2018)",
+      "platforms": "Arcade, Atari 2600, Atari 8-bit, NES, SNES, N64, Wii, Wii U, Nintendo Switch",
+      "publisher": "Nintendo",
       "genre": "Platformers",
-      "released": "October 5, 2020"
+      "released": "July 9, 1981"
     },
     {
       "name": "Sonic Adventure Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Sonic Adventure is a 1998 platform game for Sega's Dreamcast and the first main Sonic the Hedgehog game to feature 3D gameplay. The story follows Sonic the Hedgehog, Miles Tails Prower, Knuckles the Echidna, Amy Rose, Big the Cat, and E-102 Gamma in their quests to collect the seven Chaos Emeralds and stop series antagonist Doctor Robotnik from unleashing Chaos, an ancient evil. Controlling one of the six characters—each with their own special abilities—players explore a series of themed levels to progress through the story. Sonic Adventure retains many elements from prior Sonic games, such as power-ups and the ring-based health system. Outside the main game, players can play minigames like racing and interact with Chao, a virtual pet.",
+      "developer": "Sonic Team",
+      "platforms": "Dreamcast, GameCube, Windows, Xbox 360,PlayStation 3",
+      "publisher": "Sega",
       "genre": "Platformers",
-      "released": "October 5, 2020"
+      "released": "December 23, 1998"
     },
 
     {
       "name": "Final Fantasy Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Final Fantasy is a Japanese anthology science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square Enix (formerly Square). The franchise centers on a series of fantasy and science fantasy role-playing video games. The first game in the series was released in 1987, with 14 other main-numbered entries being released since then. The franchise has since branched into other video game genres such as tactical role-playing, action role-playing, massively multiplayer online role-playing, racing, third-person shooter, fighting, and rhythm, as well as branching into other media, including CGI films, anime, manga, and novels.",
+      "developer": "Square, Square Enix",
+      "platforms": "Arcade, MSX, Android, BlackBerry OS, iOS, Windows Phone, NES, SNES, GC, GB, GBA, Wii, DS, 3DS, Switch, Ouya, PS1, PS2, PS3, PS4, PS5, PSP, PS Vita, Microsoft Windows, Xbox 360, Xbox One, WonderSwan",
+      "publisher": "Square, Square Enix",
       "genre": "Japanese RPG",
-      "released": "October 5, 2020"
+      "released": " December 18, 1987"
     },
     {
       "name": "Pokemon Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Pokémon is a series of video games developed by Game Freak and published by Nintendo and The Pokémon Company under the Pokémon media franchise. Created by Satoshi Tajiri with assistance from Ken Sugimori, the first games, Pocket Monsters Red and Green, released in 1996 in Japan for the Game Boy, and the main series of role-playing video games (RPGs), referred as the core series by their developers, have continued on each generation of Nintendo's handhelds. The most recently released core series games, Pokémon Sword and Shield, were released worldwide on the Nintendo Switch on November 15, 2019. The upcoming core series games, Pokémon Brilliant Diamond and Shining Pearl will be released in late 2021, and Pokémon Legends: Arceus in early 2022, both for the Nintendo Switch. They are remakes and a premake of the 2006 Nintendo DS games Pokémon Diamond and Pearl, respectively.",
+      "developer": "Game Freak, ILCA",
+      "platforms": "Game Boy, Game Boy Color, Game Boy Advance, Nintendo DS, Nintendo 3DS, Nintendo Switch",
+      "publisher": "Nintendo The Pokémon Company",
       "genre": "Japanese RPG",
-      "released": "October 5, 2020"
+      "released": "February 27, 1996"
     },
     {
       "name": "Persona Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Persona, sometimes known as Shin Megami Tensei: Persona outside of Japan, is a video game franchise developed and primarily published by Atlus. Focusing around a series of role-playing video games, Persona is a spin-off from Atlus' Megami Tensei franchise. The first entry in the series, Revelations: Persona, was released in 1996 for the PlayStation. The series has seen several more games since, with the most recent main entry being 2019's Persona 5 Royal.",
+      "developer": "Atlus",
+      "platforms": "PlayStation, Microsoft Windows, PlayStation 2, PlayStation Portable, PlayStation Vita, Nintendo 3DS, Arcade, PlayStation 3, Xbox 360, PlayStation 4, Nintendo Switch",
+      "publisher": "Atlus USA, Atlus, ASCII Corporation",
       "genre": "Japanese RPG",
-      "released": "October 5, 2020"
+      "released": "September 20, 1996"
     },
     {
       "name": "Kingdom Hearts ",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Kingdom Hearts is the first game in the series, released in Japan on March 28, 2002 for PlayStation 2. Tetsuya Nomura served as game director, his first time in this position. Kingdom Hearts introduced the main characters (Sora, Kairi and Riku) of the series, and established the plot's framework involving hearts and dark beings known as the Heartless. It also established the role of Disney characters in the series, with character cameos from the Final Fantasy series. Kingdom Hearts was released in North America on September 17, 2002, and featured additional content that was not in the original Japanese version. The game was later re-released in Japan as Kingdom Hearts Final Mix on December 26, 2002.Final Mix includes the content from the North American release and additional enemies, cutscenes, and weapons.",
+      "developer": "Square, Square Enix, Jupiterh.a.n.d., BitGroove Inc., Success, indieszero",
+      "platforms": "PlayStation 2, Game Boy Advance, Mobile phone, Nintendo DS, PlayStation Portable, Nintendo 3DS, PlayStation 3, Web browser, PlayStation 4, Xbox One, Android, iOS, Nintendo Switch, PC",
+      "publisher": "Square, Square Enix",
       "genre": "Japanese RPG",
-      "released": "October 5, 2020"
+      "released": "March 28, 2002"
     },
     {
       "name": "Monster Hunter",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Monster Hunter games are action role-playing games that takes place in a shared low fantasy setting, where the human-like species have a pre-industrial level of technology such as steam power, but continue to study the ruins of a long-past advanced civilization. In the setting's less populated regions, monsters roam the landscape and threaten small villages or research bases that have been established to study the ruins and these monsters. Players take the role of a Hunter that serves to help protect the villages and bases from these monsters, typically aiding in researching these. This is generally presented through a series of quests to slay or trap a monster but can include numerous optional challenges.",
+      "developer": "Capcom",
+      "platforms": "PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, PlayStation Vita, Windows, Wii, Wii U, Xbox 360, Xbox One, Nintendo 3DS, Nintendo Switch, Android, iOS",
+      "publisher": "Capcom",
       "genre": "Japanese RPG",
-      "released": "October 5, 2020"
+      "released": "March 11, 2004"
     },
 
     {
       "name": "Resident Evil Series",
-      "description": "",
-      "developer": "",
-      "platforms": "",
-      "publisher": "",
+      "description": "Resident Evil, known in Japan as Biohazard, is a Japanese horror video game series and media franchise created by Capcom. The franchise follows people trying to survive outbreaks of zombies and other monsters created mainly by the pharmaceutical company Umbrella Corporation.",
+      "developer": "Capcom",
+      "platforms": "PlayStation, Windows, Sega Saturn, Nintendo DS, Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch, Amazon Luna, Stadia",
+      "publisher": "Capcom",
       "genre": "Horror",
-      "released": "October 5, 2020"
+      "released": "March 22, 1996"
     },
     {
       "name": "Silent Hill Series",
