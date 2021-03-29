@@ -1,0 +1,24 @@
+[
+    {
+      "user_id": 1,
+      "games_id": 2
+    },
+    {
+        "user_id": 2,
+        "games_id": 3
+    },
+    {
+        "user_id": 2,
+        "games_id": 19
+    },
+    {
+        "user_id": 3,
+        "games_id": 2
+    },
+    {
+        "user_id": 1,
+        "games_id": 6
+    }
+   
+  ]
+  

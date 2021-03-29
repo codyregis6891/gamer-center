@@ -1,8 +1,45 @@
 const router = require('express').Router();
-const { Games } = require('../../models');
-const withAuth = require('../../utils/auth');
 
-router.post('/', withAuth, async (req, res) => {
+const { Games } = require('../../models');
+
+
+router.get('/', async (req, res) => {
+
+  const gameData = await Games.findAll();
+
+  console.log(gameData)
+
+  res.json(gameData)
+
+ });
+
+ router.get('/:id', async (req, res) => {
+
+  try {
+
+    const gameData = await Games.findByPk(req.params.id, {
+
+    });
+
+    if (!gameData) {
+
+      res.status(404).json({ message: 'No games found with this id!' });
+
+      return;
+
+    }
+
+    res.status(200).json(gameData);
+
+  } catch (err) {
+
+    res.status(500).json(err);
+
+  }
+});
+
+
+router.post('/', async (req, res) => {
 
   try {
 
@@ -23,34 +60,6 @@ router.post('/', withAuth, async (req, res) => {
   }
 });
 
-router.delete('/:id', withAuth, async (req, res) => {
 
-  try {
-    const projectData = await Games.destroy({
-
-      where: {
-
-        id: req.params.id,
-
-        user_id: req.session.user_id,
-
-      },
-    });
-
-    if (!projectData) {
-
-      res.status(404).json({ message: 'No game found with this id!' });
-
-      return;
-    }
-
-    res.status(200).json(projectData);
-
-  } catch (err) {
-
-    res.status(500).json(err);
-    
-  }
-});
 
 module.exports = router;
