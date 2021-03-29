@@ -2,6 +2,46 @@ const router = require('express').Router();
 
 const { User } = require('../../models');
 
+const withAuth = require('../../utils/auth');
+
+
+
+router.get('/', async (req, res) => {
+
+  const userData = await User.findAll();
+
+  console.log(userData)
+
+  res.status(200).json(userData)
+
+ });
+
+ router.get('/:id', async (req, res) => {
+
+  try {
+
+    const userData = await User.findByPk(req.params.id, {
+
+    });
+
+    if (!userData) {
+
+      res.status(404).json({ message: 'No user found with this id!' });
+
+      return;
+
+    }
+
+    res.status(200).json(userData);
+
+  } catch (err) {
+
+    res.status(500).json(err);
+
+  }
+});
+
+
 router.post('/', async (req, res) => {
 
   try {
@@ -22,6 +62,8 @@ router.post('/', async (req, res) => {
 
   }
 });
+
+
 
 router.post('/login', async (req, res) => {
 
@@ -68,6 +110,8 @@ router.post('/login', async (req, res) => {
   }
 });
 
+
+
 router.post('/logout', (req, res) => {
 
   if (req.session.logged_in) {
@@ -81,6 +125,38 @@ router.post('/logout', (req, res) => {
   } else {
 
     res.status(404).end();
+    
+  }
+});
+
+
+
+router.delete('/:id',  async (req, res) => {
+
+  try {
+    const userData = await User.destroy({
+
+      where: {
+
+        id: req.params.id,
+
+        user_id: req.session.user_id,
+
+      },
+    });
+
+    if (!userData) {
+
+      res.status(404).json({ message: 'No user found with this id!' });
+
+      return;
+    }
+
+    res.status(200).json(userData);
+
+  } catch (err) {
+
+    res.status(500).json(err);
     
   }
 });

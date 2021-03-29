@@ -1,6 +1,7 @@
 const router = require('express').Router();
+
 const { Games } = require('../../models');
-const withAuth = require('../../utils/auth');
+
 
 router.get('/', async (req, res) => {
 
@@ -58,6 +59,7 @@ router.post('/', async (req, res) => {
 
   }
 });
+
 
 
 module.exports = router;
