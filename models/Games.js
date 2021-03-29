@@ -29,14 +29,35 @@ Games.init(
       type: DataTypes.STRING,
 
     },
-    genre: {
+    developer: {
       type: DataTypes.STRING,
       
       allowNull: false,
     },
-    price: {
+    platforms: {
 
-      type: DataTypes.DECIMAL,
+      type: DataTypes.STRING,
+
+      allowNull: false,
+
+    },
+    publisher: {
+
+      type: DataTypes.STRING,
+
+      allowNull: false,
+
+    },
+    genre: {
+
+      type: DataTypes.STRING,
+
+      allowNull: false,
+
+    },
+    released: {
+
+      type: DataTypes.STRING,
 
       allowNull: false,
 
