@@ -66,9 +66,9 @@ Games.init(
 
     underscored: true,
 
-    modelName: 'project',
+    modelName: 'games',
 
   }
 );
 
-module.exports = Project;
+module.exports = Games;
