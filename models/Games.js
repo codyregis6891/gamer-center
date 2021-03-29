@@ -19,38 +19,39 @@ Games.init(
     },
     name: {
 
-      type: DataTypes.STRING,
+      type: DataTypes.STRING(2000),
 
       allowNull: false,
 
     },
     description: {
 
-      type: DataTypes.STRING,
+      type: DataTypes.STRING(2000),
+
 
     },
     developer: {
-      type: DataTypes.STRING,
+      type: DataTypes.STRING(2000),
       
       allowNull: false,
     },
     platforms: {
 
-      type: DataTypes.STRING,
+      type: DataTypes.STRING(2000),
 
       allowNull: false,
 
     },
     publisher: {
 
-      type: DataTypes.STRING,
+      type: DataTypes.STRING(2000),
 
       allowNull: false,
 
     },
     genre: {
 
-      type: DataTypes.STRING,
+      type: DataTypes.STRING(100),
 
       allowNull: false,
 
@@ -59,24 +60,24 @@ Games.init(
 
       type: DataTypes.STRING,
 
-      allowNull: false,
+      allowNull: true,
 
     },
-    user_rating: {
-      type: DataTypes.INTEGER,
-    },
-    user_id: {
+    // user_rating: {
+    //   type: DataTypes.INTEGER,
+    // },
+    // user_id: {
 
-      type: DataTypes.INTEGER,
+    //   type: DataTypes.INTEGER,
 
-      references: {
+    //   references: {
 
-        model: 'user',
+    //     model: 'user',
 
-        key: 'id',
+    //     key: 'id',
 
-      },
-    },
+    //   },
+    // },
   },
   {
     sequelize,
