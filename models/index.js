@@ -1,19 +1,27 @@
 const User = require('./User');
 
-const Project = require('./Project');
+const Games = require('./Games');
 
-User.hasMany(Project, {
+const Favorites = require('./Favorites');
 
-  foreignKey: 'user_id',
-
-  onDelete: 'CASCADE'
-
+User.belongsToMany(Games, {
+  // Define the third table needed to store the foreign keys
+  through: {
+    model: Favorites,
+    unique: false
+  },
+  // Define an alias for when data is retrieved
+  as: 'user_favorites'
 });
 
-Project.belongsTo(User, {
-
-  foreignKey: 'user_id'
-  
+Games.belongsToMany(User, {
+  // Define the third table needed to store the foreign keys
+  through: {
+    model: Favorites,
+    unique: false
+  },
+  // Define an alias for when data is retrieved
+  as: 'favorited_games'
 });
 
-module.exports = { User, Project };
+module.exports = { User, Games, Favorites };
