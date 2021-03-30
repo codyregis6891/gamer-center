@@ -487,6 +487,26 @@ router.get('/categories/retro-n64', async (req, res) => {
 });
 
 
+// GET one game
+router.get('/game/:id', async (req, res) => {
+
+  try {
+
+    const gameData = await Games.findByPk(req.params.id);
+
+    const game = gameData.get({ plain: true });
+
+    // Send over the 'loggedIn' session variable to the 'homepage' template
+    res.render('gamepage', { game, loggedIn: req.session.loggedIn });
+
+  } catch (err) {
+
+    console.log(err);
+    res.status(500).json(err);
+  }
+});
+
+
 
 // Use withAuth middleware to prevent access to route
 router.get('/profile', withAuth, async (req, res) => {
@@ -526,6 +546,7 @@ router.get('/profile', withAuth, async (req, res) => {
 
   }
 });
+
 
 router.get('/login', (req, res) => {
   // If the user is already logged in, redirect the request to another route
