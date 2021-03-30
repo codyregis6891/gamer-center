@@ -1,10 +1,13 @@
 const sequelize = require('../config/connection');
 
-const { User, Project } = require('../models');
+const { User, Games, Favorites } = require('../models');
 
 const userData = require('./userData.json');
 
-const projectData = require('./projectData.json');
+const gameData = require('./gameData.json');
+
+const favoritesData = require('./favoritesData.json');
+
 
 const seedDatabase = async () => {
 
@@ -18,16 +21,11 @@ const seedDatabase = async () => {
 
   });
 
-  for (const project of projectData) {
+  const games = await Games.bulkCreate(gameData);
 
-    await Project.create({
+  const favorites = await Favorites.bulkCreate(favoritesData);
 
-      ...project,
 
-      user_id: users[Math.floor(Math.random() * users.length)].id,
-
-    });
-  }
 
   process.exit(0);
   

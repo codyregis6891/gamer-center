@@ -1,0 +1,811 @@
+[
+    {
+      "name": "NBA 2K21",
+      "description": "NBA 2K21 is a basketball game simulation video game",
+      "developer": "Visual Concepts",
+      "platforms": "PlayStation 4, PlayStation 5, Xbox One, Nintendo Switch, PC",
+      "publisher": "2K GAMES, 2KSports, Zhekun Inc",
+      "genre": "Sports",
+      "released": "November 10, 2020"
+    },
+    {
+      "name": "Madden NFL 21",
+      "description": "Madden NFL 21 is an American football video game based on the National Football League",
+      "developer": "Electronic Arts, EA Tiburon",
+      "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and Series S, Google Stadia, Microsoft Windows, Android",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "released": "August 28, 2020"
+    },
+    {
+      "name": "FIFA 21",
+      "description": "FIFA is a series of association football sports video games developed and released annually by Electronic Arts under the EA Sports label. Football video games such as Sensible Soccer, Kick Off and Match Day had been developed since the late 1980s and already competitive in the games market when EA Sports announced a football game as the next addition to their EA Sports label. The Guardian called the series the slickest, most polished and by far the most popular football game around. As of 2011, the FIFA franchise has been localised into 18 languages and available in 51 countries. Listed in Guinness World Records as the best-selling sports video game franchise in the world, by 2021, the FIFA series had sold over 325 million copies. It is also one of the best-selling video game franchises.",
+      "developer": "EA Vancouver, EA Romania",
+      "platforms": "Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch, Stadia, PlayStation 5, Xbox Series X/S",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "released": "October 5, 2020"
+    },
+    {
+      "name": "MLB The Show 21",
+      "description": "MLB The Show 21 is an upcoming baseball video game by San Diego Studio and published by Sony Interactive Entertainment, based on Major League Baseball (MLB). The sixteenth entry of the MLB: The Show franchise, it is set to be released on April 20, 2021. San Diego Padres shortstop Fernando Tatís Jr. is featured as the cover star, and at age 22 is the youngest player to do so.",
+      "developer": "San Diego Studio",
+      "platforms": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+      "publisher": "Sony Interactive Entertainment",
+      "genre": "Sports",
+      "released": "April 20, 2021"
+    },
+    {
+      "name": "NHL 21",
+      "description": "NHL 21 is an ice hockey simulation video game developed by EA Vancouver and published by EA Sports. It is the 30th installment in the NHL game series and was released for the PlayStation 4 and Xbox One consoles in October 2020.",
+      "developer": "EA Vancouver",
+      "platforms": "PlayStation 4, Xbox One",
+      "publisher": "EA Sports",
+      "genre": "Sports",
+      "released": "October 16, 2020"
+    },
+
+    {
+      "name": "Uncharted Series",
+      "description": "The main series began with Uncharted: Drake's Fortune, released on the PlayStation 3 in 2007, followed by its sequels Uncharted 2: Among Thieves (2009), Uncharted 3: Drake's Deception (2011), with the final installment, Uncharted 4: A Thief's End, released on the PlayStation 4 in 2016. A prequel, Uncharted: Golden Abyss, was released for Sony's PlayStation Vita handheld system in 2011, followed by the card game spin-off Uncharted: Fight for Fortune in 2012. A standalone game to the series, Uncharted: The Lost Legacy, was released in 2017, with Chloe Frazer as the game's playable protagonist.",
+      "developer": "Naughty Dog, Bend Studio, Bluepoint Games, Playspree",
+      "platforms": "PlayStation 3, PlayStation 4, PlayStation Vita, Android, iOS",
+      "publisher": "Sony Interactive Entertainment",
+      "genre": "Action/Adventure",
+      "released": "November 19, 2007"
+    },
+    {
+      "name": "God Of War Series",
+      "description": "God of War is an action-adventure game franchise created by David Jaffe at Sony's Santa Monica Studio. It began in 2005 on the PlayStation 2 (PS2) video game console, and has become a flagship title for the PlayStation brand, consisting of eight games across multiple platforms with a ninth currently in development. Based in ancient mythology, the story follows Kratos, a Spartan warrior who was tricked into killing his family by his former master, the Greek God of War Ares. This sets off a series of events that leads to wars with the mythological pantheons. The Greek mythology era of the series sees Kratos follow a path of vengeance due to the machinations of the Olympian gods, while the Norse mythology era, which introduces his son Atreus as a secondary protagonist, shows an older Kratos on a path of redemption, which inadvertently brings the two into conflict with the Norse gods.",
+      "developer": "Santa Monica Studio, Ready at Dawn, Javaground/SOE-LA",
+      "platforms": "PlayStation 2, Java ME, PlayStation Portable, PlayStation 3, PlayStation Vita, PlayStation 4, PlayStation 5",
+      "publisher": "Sony Interactive Entertainment, Sony Pictures Digital",
+      "genre": "Action/Adventure",
+      "released": "March 22, 2005"
+    },
+    {
+      "name": "Doom Series",
+      "description": "Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting his way through hordes of invading demons from Hell. The first episode, comprising nine levels, was distributed freely as shareware and played by an estimated 15–20 million people within two years; the full game, with two further episodes, was sold via mail order. An updated version with an additional episode and more difficult levels, The Ultimate Doom, was released in 1995 and sold at retail.",
+      "developer": "id Software",
+      "platforms": "MS-DOS, Sega 32X, Atari Jaguar, Mac OS, Amiga OS, PC-98, SNES, PlayStation, 3DO, Windows 95, Sega Saturn, Acorn Archimedes, Game Boy Advance, Xbox 360, iOS, PlayStation 3, Android, Nintendo Switch, PlayStation 4, Xbox One",
+      "publisher": "id Software",
+      "genre": "Action/Adventure",
+      "released": "December 10, 1993"
+    },
+    {
+      "name": "Assassin's Creed Series",
+      "description": "Assassin's Creed is an open-world action-adventure stealth video game franchise published by Ubisoft and developed mainly by its studio Ubisoft Montreal using the game engine Anvil and its more advanced derivatives. Created by Patrice Désilets, Jade Raymond, and Corey May, the Assassin's Creed series depicts a fictional millennia-old struggle between the Assassins, who fight for peace with free will, and the Templars, who desire peace through order and control. The series features historical fiction, science fiction and fictional characters intertwined with real-world historical events and figures. For the majority of time players control an Assassin in the past history, while also playing as Desmond Miles or an Assassin Initiate in the present day, who hunt down their Templar targets. The series took inspiration from the novel Alamut by the Slovenian writer Vladimir Bartol, based on the historical Hashashin sect of the medieval Middle East, while building upon concepts from the Prince of Persia series.",
+      "developer": "Ubisoft Montreal, Ubisoft Annecy, Ubisoft Sofia, Ubisoft Milan, Ubisoft Quebec, Ubisoft Toronto, Gameloft, Griptonite Games, Blue Byte",
+      "platforms": "Luna, Microsoft Windows, PlayStation 4, Stadia, Xbox One, Xbox Series X/S, PlayStation 5",
+      "publisher": "Ubisoft",
+      "genre": "Action/Adventure",
+      "released": "November 13, 2007"
+    },
+    {
+      "name": "Far Cry Series",
+      "description": "Far Cry is a franchise of first-person shooter games, all of which have been published by Ubisoft. The first game, Far Cry, was developed by Crytek to premiere their CryEngine software, and released in March 2004. Subsequently, Ubisoft obtained the rights to the franchise and the bulk of the development is handled by Ubisoft Montreal with assistance from other Ubisoft satellite studios. The following games in the series have used a Ubisoft-modified version of the CryEngine, the Dunia Engine, allowing for open world gameplay. There have been five main games in the series, along with three standalone expansions; the first game, initially developed for Microsoft Windows, also saw a number of ports to video game consoles.",
+      "developer": "Crytek (2004), Ubisoft Montreal (2005–), Ubisoft Toronto (2018–)",
+      "platforms": "Microsoft Windows, Xbox, Xbox 360, Wii, Arcade, PlayStation 3, PlayStation 4, Xbox One",
+      "publisher": "Ubisoft",
+      "genre": "Action/Adventure",
+      "released": "March 23, 2004"
+    },
+
+    {
+      "name": "Fallout Series",
+      "description": "Fallout is a series of post-apocalyptic role-playing video games—and later action role-playing games—created by Interplay Entertainment. The series is set during the 21st, 22nd and 23rd centuries, and its atompunk retrofuturistic setting and art work are influenced by the post-war culture of 1950s United States, with its combination of hope for the promises of technology and the lurking fear of nuclear annihilation. A forerunner of Fallout is Wasteland, a 1988 game developed by Interplay Productions to which the series is regarded as a spiritual successor.",
+      "developer": "Interplay Entertainment, Black Isle Studios, Micro Forté, Bethesda Game Studios, Obsidian Entertainment",
+      "platforms": "DOS, Microsoft Windows, Mac OS, Mac OS X, PlayStation 2, PlayStation 3, PlayStation 4, Xbox, Xbox 360, Xbox One, Nintendo Switch",
+      "publisher": "Interplay Entertainment (1997–2004), 14 Degrees East (2001), Bethesda Softworks (since 2004)",
+      "genre": "RPG",
+      "released": "October 10, 1997"
+    },
+    {
+      "name": "Grand Theft Auto Series",
+      "description": "Gameplay focuses on an open world where the player can complete missions to progress an overall story, as well as engage in various side activities. Most of the gameplay revolves around driving and shooting, with occasional role-playing and stealth elements. The series also has elements of the earlier beat 'em up games from the 16-bit era. The games in the Grand Theft Auto series are set in fictional locales modelled after real-life cities, at various points in time from the early 1960s to the 2010s. The original game's map encompassed three cities—Liberty City (based on New York City), San Andreas (based on San Francisco),[a] and Vice City (based on Miami)—but later titles tend to focus on a single setting; usually one of the original three locales, albeit remodelled and significantly expanded. The series centers on different protagonists who attempt to rise through the ranks of the criminal underworld, although their motives for doing so vary in each title. The antagonists are commonly characters who have betrayed the protagonist or their organisation, or characters who have the most impact impeding the protagonist's progress",
+      "developer": "Rockstar North, Digital Eclipse, Rockstar Leeds, Rockstar Canada",
+      "platforms": "Android, Dreamcast, Fire OS, Game Boy Advance, Game Boy Color, iOS, macOS, Microsoft Windows, MS-DOS, Nintendo DS, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable, Windows Phone, Xbox, Xbox 360, Xbox One, Xbox Series X/S",
+      "publisher": "Rockstar Games",
+      "genre": "RPG",
+      "released": "October 21, 1997"
+    },
+    {
+      "name": "Red Dead Redemption",
+      "description": "The game is played from a third-person perspective. The player may freely roam in its interactive open world, a fictionalized version of the Western United States and Mexico, primarily by horseback and on foot. Gunfights emphasize a gunslinger gameplay mechanic called Dead Eye that allows players to mark multiple shooting targets on enemies in slow motion. The game makes use of a morality system, by which the player's actions in the game affect their character's levels of honor and fame and how other characters respond to the player. An online multiplayer mode is included with the game, allowing up to 16 players to engage in both cooperative and competitive gameplay in a recreation of the single-player setting.",
+      "developer": "Rockstar Studios",
+      "platforms": "PlayStation 4, Xbox One, Microsoft Windows, Stadia",
+      "publisher": "Rockstar Games",
+      "genre": "RPG",
+      "released": "October 26, 2018"
+    },
+    {
+      "name": "Skyrim",
+      "description": "The game's main story revolves around the player's character, the Dragonborn, on their quest to defeat Alduin the World-Eater, a dragon who is prophesied to destroy the world. The game is set 200 years after the events of Oblivion and takes place in Skyrim, the northernmost province of Tamriel. Over the course of the game, the player completes quests and develops the character by improving skills. The game continues the open-world tradition of its predecessors by allowing the player to travel anywhere in the game world at any time, and to ignore or postpone the main storyline indefinitely.",
+      "developer": "Bethesda Game Studios",
+      "platforms": "Microsoft Windows, PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Nintendo Switch",
+      "publisher": "Bethesda Softworks",
+      "genre": "RPG",
+      "released": "November 11, 2011"
+    },
+    {
+      "name": "The Witcher",
+      "description": "The Witcher is a series of fantasy action role-playing games developed by CD Projekt Red and published by CD Projekt. It is based on the book series of the same name by Polish writer Andrzej Sapkowski, acting as sequels to the story of the books. The main series began in 2007 with the release of The Witcher, and concluded with 2015's The Witcher 3: Wild Hunt. As of 2020, the series has three main standalone games, two expansion packs and three spin-off games. The Witcher 3: Wild Hunt is the most successful game in the series selling over 28 million copies. The series has been critically acclaimed and commercially successful selling over 50 million copies.",
+      "developer": "CD Projekt Red, Fuero Games",
+      "platforms": "Xbox 360, Microsoft Windows, OS X, Linux, Xbox One, Nintendo Switch, Playstation 4, Xbox Series X/S, Playstation 5",
+      "publisher": "Atari, CD Projekt",
+      "genre": "RPG",
+      "released": "October 26, 2007"
+    },
+
+    {
+      "name": "Call of Duty Series",
+      "description": "Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space. The games were first developed by Infinity Ward, then also by Treyarch and Sledgehammer Games. Several spin-off and handheld games were made by other developers. The most recent title, Call of Duty: Black Ops Cold War, was released on November 13, 2020.",
+      "developer": "Infinity Ward (2003–present), Treyarch (2005–present), Sledgehammer Games (2011–present), Raven Software (2020)",
+      "platforms": "Microsoft Windows, OS X, Nintendo DS, GameCube, Nokia N-Gage, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable, PlayStation Vita, Wii, Wii U, Xbox, Xbox 360, Xbox One, Xbox Series X/S, iOS, Android, BlackBerry, J2ME",
+      "publisher": "Activision",
+      "genre": "FPS",
+      "released": "October 29, 2003"
+    },
+    {
+      "name": "Battlefield Series",
+      "description": "Battlefield series games usually focus on large, online multiplayer battles. Playing in squads has become a major element of games in the series. Since Battlefield 2, the series centrally recorded online stats for each player, allowing users to receive rank promotions and weapon unlocks based on their performance as well as awards such as medals, ribbons, and pins. A class system is present within all the Battlefield games. Each class features a different type of primary weapon along with different equipment, differentiating roles on the battlefield. The ability to engage other players in melee combat with a knife has been present in Battlefield games. Since Battlefield 2142, the series has included an award of dog tags for each player killed using a knife.",
+      "developer": "EA DICE (2002–), Easy Studios (2009, 2011), Neowiz Games (2010), Visceral Games (2015), Criterion Games (2019, 2021–)",
+      "platforms": "Microsoft Windows, OS X, PlayStation 2, Xbox, PlayStation 3, Xbox 360, PlayStation 4, Xbox One",
+      "publisher": "Electronic Arts",
+      "genre": "FPS",
+      "released": "September 10, 2002"
+    },
+    {
+      "name": "Halo Series",
+      "description": "Halo is an American military science fiction media franchise managed and developed by 343 Industries and published by Xbox Game Studios. The franchise and its early main installments were originally developed by Bungie. The central focus of the franchise builds off the experiences of Master Chief John-117, one of a group of supersoldiers codenamed Spartans, and his artificial intelligence (AI) companion, Cortana.",
+      "developer": "Bungie (2001–2010), Ensemble Studios (2009), 343 Industries (2011–present), Creative Assembly (2017)",
+      "platforms": "Xbox, Microsoft Windows, macOS, Xbox 360, Windows Phone, iOS, Xbox One, Arcade, Xbox Series X/S",
+      "publisher": "Xbox Game Studios",
+      "genre": "FPS",
+      "released": "November 15, 2001"
+    },
+    {
+      "name": "Escape From Tarcov",
+      "description": "Escape from Tarkov is a multiplayer first-person shooter video game in development by Battlestate Games for Windows. A closed alpha test of the game was first made available to select users on August 4, 2016, followed by a closed beta which has been running since July 2017. The game is set in the fictional Norvinsk region, where a war is taking place between two private military companies (United Security USEC and the Battle Encounter Assault Regiment BEAR). Players join matches in which they fight other players for loot and aim to survive and escape; dying results in the loss of almost all items the player used and found during that game.",
+      "developer": "Battlestate Games",
+      "platforms": "Microsoft Windows",
+      "publisher": "Battlestate Games",
+      "genre": "FPS",
+      "released": "Closed beta released on July 27, 2017"
+    },
+    {
+      "name": "Wolfenstein",
+      "description": "Wolfenstein is a series of World War II video games. It was originally created by Muse Software, before being revived by id Software. The first two games in the series, Castle Wolfenstein and Beyond Castle Wolfenstein, were developed by Muse Software and focused on stealth-based gameplay from a top-down perspective. Beginning with id Software's Wolfenstein 3D, Wolfenstein games became fast-paced first-person shooters, and are widely regarded as having helped to popularize the first-person shooter genre. Further games in the series include Return to Castle Wolfenstein, developed by Gray Matter Interactive, Wolfenstein: Enemy Territory by Splash Damage, and 2009's Wolfenstein by Raven Software. After ZeniMax Media acquired id Software, including the Wolfenstein franchise, Swedish developer MachineGames became the series' primary developer. Wolfenstein games developed by MachineGames include Wolfenstein: The New Order, Wolfenstein: The Old Blood, Wolfenstein II: The New Colossus, Wolfenstein: Youngblood, and Wolfenstein: Cyberpilot. The majority of the games follow William B.J. Blazkowicz, a Jewish Polish-American Army Captain and his fight against the Axis powers. Earlier titles are centered around Nazis attempting to harness supernatural and occult forces. Those developed by MachineGames are set in an alternate history in which Axis powers won World War II.",
+      "developer": "Muse Software (1981–1984), id Software (1992, 2008), Gray Matter Interactive (2001), Splash Damage (2003), Fountainhead Entertainment (2008), Raven Software (2009), MachineGames (2014–present), Arkane Lyon (2019)",
+      "platforms": "3DO Interactive Multiplayer, Acorn Archimedes, Amiga 1200, AmigaOS 4, Apple II, Atari Jaguar, Classic Mac OS, Commodore 64, Game Boy Advance, iOS, Microsoft Windows, MS-DOS, NEC PC-9801, Nintendo Switch, OS X, PlayStation 2, PlayStation 3, PlayStation 4, Stadia, Super Nintendo Entertainment System, Windows Mobile, Xbox, Xbox 360, Xbox One",
+      "publisher": "Muse Software (1981–1984), Apogee Software (1992), FormGen (1992), Activision (2001–2003, 2009), EA Mobile (2008), Bethesda Softworks (2014–present)",
+      "genre": "FPS",
+      "released": "September 1981"
+    },
+
+    {
+      "name": "Grand Turismo Series",
+      "description": "Gran Turismo (GT) is a series of racing simulation video games developed by Polyphony Digital. Developed for PlayStation systems, Gran Turismo games are intended to emulate the appearance and performance of a large selection of vehicles, most of which are licensed reproductions of real-world automobiles. Since the franchise's debut in 1997, over 80 million units have been sold worldwide for the PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, and PlayStation Portable, making it the highest selling video game franchise under the PlayStation brand.",
+      "developer": "Polyphony Digital",
+      "platforms": "PlayStation, PlayStation 2, PlayStation 3, PlayStation Portable, PlayStation 4, PlayStation 5",
+      "publisher": "Sony Interactive Entertainment",
+      "genre": "Racing",
+      "released": "December 23, 1997"
+    },
+    {
+      "name": "Need for Speed Series",
+      "description": "Need for Speed (NFS) is a racing video game franchise published by Electronic Arts and currently developed by Criterion Games, the developers of Burnout. The series centers around illicit street racing and in general tasks players to complete various types of races while evading the local law enforcement in police pursuits. The series released its first title, The Need for Speed, in 1994. The most recent game, Need for Speed: Hot Pursuit Remastered, was released on November 6, 2020.",
+      "developer": "Criterion Games",
+      "platforms": "Microsoft Windows, Game Boy Advance, GameCube, PlayStation 2, Xbox, PlayStation Portable, Nintendo DS",
+      "publisher": "Electronic Arts",
+      "genre": "Racing",
+      "released": "August 31, 1994"
+    },
+    {
+      "name": "MarioKart Series",
+      "description": "Mario Kart is a series of go-kart-style racing video games developed and published by Nintendo as spin-offs from its trademark Super Mario series. The games feature characters from the Mario franchise and other game series, including The Legend of Zelda and Animal Crossing, competing in races while using various items to gain advantage.",
+      "developer": "Nintendo EAD (1992-2014), Nintendo EPD (2017-present), Intelligent Systems (Super Circuit), Retro Studios (Mario Kart 7), Namco/Bandai Namco (Mario Kart Arcade GP Velan Studios (Mario Kart Live: Home Circuit)",
+      "platforms": "Super Nintendo Entertainment System, Nintendo 64, iQue Player, Game Boy Advance, GameCube, Nintendo DS, Arcade, Wii, Nintendo 3DS, Wii U, Nintendo Switch, iOS, Android",
+      "publisher": "Nintendo",
+      "genre": "Racing",
+      "released": "August 27, 1992"
+    },
+    {
+      "name": "Forza Series",
+      "description": "Forza Motorsport is a simulation racing video game. Players compete in events around the globe using real licensed cars on a variety of real world and fictional courses. It features an arcade mode, meant more for quickplay of races, and a career mode, which is focused on long-term play. Career mode spans several racing disciplines, spanning from racing of common commuter cars to those in racing series such as Super GT and Deutsche Tourenwagen Masters as well as other sports car racing series. To help players acclimate to the simulation style of racing, assists such as an ideal racing line, anti-lock brakes and traction control can be used. There are 231 cars in Forza Motorsport ranging from a Honda Civic to supercars such as the Enzo Ferrari and Le Mans race prototypes such as the Audi R8. There are nine classes of cars, spanning standard production vehicles to sports and high performance cars to purpose-built race cars. Each car can be upgraded and tuned with a large number of extras and parts.",
+      "developer": "Turn 10 Studios, Playground Games, Sumo Digital",
+      "platforms": "Xbox, Xbox 360, Xbox One, Xbox Series X and Series S, Microsoft Windows, iOS, Android",
+      "publisher": "Xbox Game Studios",
+      "genre": "Racing",
+      "released": "May 3, 2005"
+    },
+    {
+      "name": "Burnout Series",
+      "description": "Burnout was the first in a series of high-speed racing games noted for over-the-top crashes and high-risk gameplay mechanics.",
+      "developer": "Criterion Games",
+      "platforms": "GameCube, Microsoft Windows, Nintendo DS, Nintendo Switch, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, Xbox, Xbox 360, Xbox One",
+      "publisher": "Acclaim Entertainment (2001–2002), Electronic Arts (2004–present)",
+      "genre": "Racing",
+      "released": "November 1, 2001"
+    },
+
+    {
+      "name": "Subnautica",
+      "description": "Subnautica is a survival action-adventure game set in an open world environment and played from a first-person perspective. The player controls the lone survivor of a waylaid spacecraft called the Aurora, stranded on a remote ocean planet named 4546B.The main objective is to explore the ocean and survive its dangers, while also completing tasks to advance the plot. Players can collect resources, construct tools, bases, and submersibles, and interact with the planet's wildlife.",
+      "developer": "Unknown Worlds Entertainment",
+      "platforms": "Microsoft Windows, MacOS, Xbox One, PlayStation 4, Nintendo Switch",
+      "publisher": "Unknown Worlds Entertainment",
+      "genre": "Survival",
+      "released": "January 23, 2018"
+    },
+    {
+      "name": "The Forest",
+      "description": "The Forest is a survival horror video game developed and published by Endnight Games. The game takes place on a remote, heavily forested peninsula where the player character Eric Leblanc and his son Timmy are survivors of a plane crash. The game features nonlinear gameplay in an open world environment played from a first-person perspective, with no set missions or quests, empowering the player to make their own decisions for survival. Following a four-year long early access beta phase, the game was released for Microsoft Windows in April 2018, and for the PlayStation 4 in November 2018. The game was also a commercial success, selling over five million copies by the end of 2018. A sequel, Sons of the Forest, is under development.",
+      "developer": "Endnight Games",
+      "platforms": "Microsoft Windows, PlayStation 4",
+      "publisher": "Endnight Games",
+      "genre": "Survival",
+      "released": "April 30, 2018"
+    },
+    {
+      "name": "Dont Starve",
+      "description": "Don't Starve is a survival video game developed by the Canadian indie video game developer Klei Entertainment. The game was initially released for Microsoft Windows, OS X, and Linux on April 23, 2013. A PlayStation 4 port, renamed Don't Starve: Giant Edition, became available the following year (with PlayStation Vita and PlayStation 3 versions released on September 2014 and June 2015 respectively, and an Xbox One version released in August 2015). Don't Starve for iOS, renamed Don't Starve: Pocket Edition was released on July 9, 2015. An Android version was released on October 20, 2016. Downloadable content titled Reign of Giants was released on April 30, 2014, and a multiplayer expansion called Don't Starve Together became free for existing users on June 3, 2015. On Steam, this game is able to be purchased with a free copy for a friend. A Nintendo Switch port came out on April 12, 2018.",
+      "developer": "Klei Entertainment",
+      "platforms": "Android, iOS, Linux, Microsoft Windows, OS X, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox One, Nintendo Switch",
+      "publisher": "Klei Entertainment",
+      "genre": "Survival",
+      "released": "April 23, 2013"
+    },
+    {
+      "name": "Rust",
+      "description": "Rust is a multiplayer-only survival video game developed by Facepunch Studios. Rust was first released in early access in December 2013 and received its full release in February 2018. Rust is available on Microsoft Windows and macOS. Console versions for PlayStation and Xbox have been announced soon to release in 2021. Rust was initially created as a clone of DayZ, a popular mod for ARMA 2, with crafting elements akin to those in Minecraft.",
+      "developer": "Facepunch Studios",
+      "platforms": "macOS, Microsoft Windows, Xbox One, PlayStation 4",
+      "publisher": "Facepunch Studios",
+      "genre": "Survival",
+      "released": "February 8, 2018"
+    },
+    {
+      "name": "Minecraft",
+      "description": "Minecraft is a sandbox video game developed by Mojang. The game was created by Markus Notch Persson in the Java programming language. Following several early test versions, it was released as a paid public alpha for personal computers in 2009 before releasing in November 2011, with Jens Bergensten taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time, with 200 million copies sold and 126 million monthly active users as of 2020.",
+      "developer": "Mojang",
+      "platforms": "Windows, OS X, Linux, Android, iOS, Xbox 360, Raspberry Pi, Windows Phone, PlayStation 3, Fire OS, PlayStation 4, Xbox One, PlayStation Vita, Universal Windows Platform, Wii U, tvOS, Nintendo Switch, New Nintendo 3DS",
+      "publisher": "Mojang, Microsoft Studios, Sony Interactive Entertainment",
+      "genre": "Survival",
+      "released": "November 18, 2011"
+    },
+
+    {
+      "name": "Super Mario Series",
+      "description": "Super Mario is a platform game series created by Nintendo, featuring their mascot, Mario. Alternatively called the Super Mario Bros. series or simply the Mario series, it is the central series of the greater Mario franchise. At least one Super Mario game has been released for every major Nintendo video game console. There have also been a number of Super Mario video games released on non-Nintendo gaming platforms. There are currently twenty-one similar games and one cross-series game that may or may not be included as part of the series.",
+      "developer": "Nintendo EAD (1985–2015), Nintendo EPD (since 2015)",
+      "platforms": "Arcade, NES, SNES, N64, Wii, Wii U, Nintendo Switch, GameCube, Game Boy",
+      "publisher": "Nintendo",
+      "genre": "Platformers",
+      "released": "September 13, 1985"
+    },
+    {
+      "name": "Spyro Series",
+      "description": "Spyro is a series of platform video games which features the main protagonist Spyro, a dragon. Since the series' introduction in 1998 with the PlayStation game Spyro the Dragon, there have been numerous sequels and a reboot trilogy. Originally owned by Universal Pictures (via the defunct Universal Interactive) and created by Insomniac Games, the franchise has changed hands and developers numerous times before the rights to the intellectual property were acquired by Activision in 2008.",
+      "developer": "Insomniac Games (1998–2000), Digital Eclipse (2001–2003), Check Six Studios & Equinoxe (2002), Vicarious Visions (2004, 2011), Eurocom (2004), Amaze Entertainment (2005-07), Krome Studios (2006-2007), Étranges Libellules (2008), Tantalus Media (2008), Toys for Bob (2011, 2018)",
+      "platforms": "Game Boy Advance, GameCube, Microsoft Windows, Nintendo DS, Nintendo Switch, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, Wii, Xbox, Xbox 360, Xbox One",
+      "publisher": "Sony Computer Entertainment (1998–2000), Vivendi Universal Games (2001–2007),Activision (2008–present)",
+      "genre": "Platformers",
+      "released": "September 9, 1998"
+    },
+    {
+      "name": "Crash Bandicoot Series",
+      "description": "Crash Bandicoot is a franchise of video games, originally developed by Naughty Dog as an exclusive for Sony's PlayStation console and has seen numerous installments created by numerous developers and published on multiple platforms. The series consists predominantly of platform games, but also includes spin-offs in the kart racing and party game genres. The series was originally produced by Universal Interactive, which later became known as Vivendi Games; in 2007, Vivendi merged with Activision, which currently owns and publishes the franchise.",
+      "developer": "Naughty Dog (1996–1999), Traveller's Tales (2001–2004), Vicarious Visions (2002–2004, 2017), Radical Entertainment (2005–2008), Toys for Bob (2020–present)",
+      "platforms": "Android, BlackBerry, Game Boy Advance, GameCube, iOS, Java ME, Microsoft Windows, N-Gage, Nintendo DS, Nintendo Switch, PlayStation, PlayStation 2, PlayStation 4, PlayStation 5, PlayStation Portable, Wii, Xbox, Xbox 360, Xbox One, Xbox Series X/S, Zeebo",
+      "publisher": "Sony Computer Entertainment (1996–2000), Universal Interactive (2001–2003), Vivendi Games (2004–2008), Activision (2008–present)",
+      "genre": "Platformers",
+      "released": "September 9, 1996"
+    },
+    {
+      "name": "Donkey Kong Series",
+      "description": "Donkey Kong is a series of video games featuring the adventures of an ape-like character called Donkey Kong, conceived by Shigeru Miyamoto in 1981. The franchise consists mainly of two game genres, but also includes additional spin-off titles of various genres. The games of the first genre are mostly single-screen platform/action puzzle types, featuring Donkey Kong as the opponent in an industrial construction setting. Donkey Kong first made his appearance in the 1981 arcade machine called Donkey Kong, in which he faced Jumpman (Mario). This game was also the first appearance of Mario, pre-dating the iconic video game Super Mario Bros. by four years and Mario's first non-Donkey Kong game (Mario Bros.) by two. In 1994, the series was revived as the Donkey Kong Country series, featuring Donkey Kong and his clan of other apes as protagonists in their native jungle setting versus a variety of anthropomorphic enemies, usually against the Kremlings, a clan of crocodiles and their leader King K. Rool. These are side-scrolling platform games. Titles outside these two genres have included rhythm games (Donkey Konga), racing games (Diddy Kong Racing) and edutainment (Donkey Kong Jr. Math).",
+      "developer": "Nintendo R&D1 (1981–1984), Nintendo R&D2 (1983–1987), Nintendo EAD (1994–2009), Rare (1994–2007), Namco (2003–2005), Nintendo Software Technology (2004–2015), Paon (2005–2007), Retro Studios (2010–2018)",
+      "platforms": "Arcade, Atari 2600, Atari 8-bit, NES, SNES, N64, Wii, Wii U, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Platformers",
+      "released": "July 9, 1981"
+    },
+    {
+      "name": "Sonic Adventure Series",
+      "description": "Sonic Adventure is a 1998 platform game for Sega's Dreamcast and the first main Sonic the Hedgehog game to feature 3D gameplay. The story follows Sonic the Hedgehog, Miles Tails Prower, Knuckles the Echidna, Amy Rose, Big the Cat, and E-102 Gamma in their quests to collect the seven Chaos Emeralds and stop series antagonist Doctor Robotnik from unleashing Chaos, an ancient evil. Controlling one of the six characters—each with their own special abilities—players explore a series of themed levels to progress through the story. Sonic Adventure retains many elements from prior Sonic games, such as power-ups and the ring-based health system. Outside the main game, players can play minigames like racing and interact with Chao, a virtual pet.",
+      "developer": "Sonic Team",
+      "platforms": "Dreamcast, GameCube, Windows, Xbox 360,PlayStation 3",
+      "publisher": "Sega",
+      "genre": "Platformers",
+      "released": "December 23, 1998"
+    },
+
+    {
+      "name": "Final Fantasy Series",
+      "description": "Final Fantasy is a Japanese anthology science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square Enix (formerly Square). The franchise centers on a series of fantasy and science fantasy role-playing video games. The first game in the series was released in 1987, with 14 other main-numbered entries being released since then. The franchise has since branched into other video game genres such as tactical role-playing, action role-playing, massively multiplayer online role-playing, racing, third-person shooter, fighting, and rhythm, as well as branching into other media, including CGI films, anime, manga, and novels.",
+      "developer": "Square, Square Enix",
+      "platforms": "Arcade, MSX, Android, BlackBerry OS, iOS, Windows Phone, NES, SNES, GC, GB, GBA, Wii, DS, 3DS, Switch, Ouya, PS1, PS2, PS3, PS4, PS5, PSP, PS Vita, Microsoft Windows, Xbox 360, Xbox One, WonderSwan",
+      "publisher": "Square, Square Enix",
+      "genre": "Japanese RPG",
+      "released": " December 18, 1987"
+    },
+    {
+      "name": "Pokemon Series",
+      "description": "Pokémon is a series of video games developed by Game Freak and published by Nintendo and The Pokémon Company under the Pokémon media franchise. Created by Satoshi Tajiri with assistance from Ken Sugimori, the first games, Pocket Monsters Red and Green, released in 1996 in Japan for the Game Boy, and the main series of role-playing video games (RPGs), referred as the core series by their developers, have continued on each generation of Nintendo's handhelds. The most recently released core series games, Pokémon Sword and Shield, were released worldwide on the Nintendo Switch on November 15, 2019. The upcoming core series games, Pokémon Brilliant Diamond and Shining Pearl will be released in late 2021, and Pokémon Legends: Arceus in early 2022, both for the Nintendo Switch. They are remakes and a premake of the 2006 Nintendo DS games Pokémon Diamond and Pearl, respectively.",
+      "developer": "Game Freak, ILCA",
+      "platforms": "Game Boy, Game Boy Color, Game Boy Advance, Nintendo DS, Nintendo 3DS, Nintendo Switch",
+      "publisher": "Nintendo The Pokémon Company",
+      "genre": "Japanese RPG",
+      "released": "February 27, 1996"
+    },
+    {
+      "name": "Persona Series",
+      "description": "Persona, sometimes known as Shin Megami Tensei: Persona outside of Japan, is a video game franchise developed and primarily published by Atlus. Focusing around a series of role-playing video games, Persona is a spin-off from Atlus' Megami Tensei franchise. The first entry in the series, Revelations: Persona, was released in 1996 for the PlayStation. The series has seen several more games since, with the most recent main entry being 2019's Persona 5 Royal.",
+      "developer": "Atlus",
+      "platforms": "PlayStation, Microsoft Windows, PlayStation 2, PlayStation Portable, PlayStation Vita, Nintendo 3DS, Arcade, PlayStation 3, Xbox 360, PlayStation 4, Nintendo Switch",
+      "publisher": "Atlus USA, Atlus, ASCII Corporation",
+      "genre": "Japanese RPG",
+      "released": "September 20, 1996"
+    },
+    {
+      "name": "Kingdom Hearts ",
+      "description": "Kingdom Hearts is the first game in the series, released in Japan on March 28, 2002 for PlayStation 2. Tetsuya Nomura served as game director, his first time in this position. Kingdom Hearts introduced the main characters (Sora, Kairi and Riku) of the series, and established the plot's framework involving hearts and dark beings known as the Heartless. It also established the role of Disney characters in the series, with character cameos from the Final Fantasy series. Kingdom Hearts was released in North America on September 17, 2002, and featured additional content that was not in the original Japanese version. The game was later re-released in Japan as Kingdom Hearts Final Mix on December 26, 2002.Final Mix includes the content from the North American release and additional enemies, cutscenes, and weapons.",
+      "developer": "Square, Square Enix, Jupiterh.a.n.d., BitGroove Inc., Success, indieszero",
+      "platforms": "PlayStation 2, Game Boy Advance, Mobile phone, Nintendo DS, PlayStation Portable, Nintendo 3DS, PlayStation 3, Web browser, PlayStation 4, Xbox One, Android, iOS, Nintendo Switch, PC",
+      "publisher": "Square, Square Enix",
+      "genre": "Japanese RPG",
+      "released": "March 28, 2002"
+    },
+    {
+      "name": "Monster Hunter",
+      "description": "Monster Hunter games are action role-playing games that takes place in a shared low fantasy setting, where the human-like species have a pre-industrial level of technology such as steam power, but continue to study the ruins of a long-past advanced civilization. In the setting's less populated regions, monsters roam the landscape and threaten small villages or research bases that have been established to study the ruins and these monsters. Players take the role of a Hunter that serves to help protect the villages and bases from these monsters, typically aiding in researching these. This is generally presented through a series of quests to slay or trap a monster but can include numerous optional challenges.",
+      "developer": "Capcom",
+      "platforms": "PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, PlayStation Vita, Windows, Wii, Wii U, Xbox 360, Xbox One, Nintendo 3DS, Nintendo Switch, Android, iOS",
+      "publisher": "Capcom",
+      "genre": "Japanese RPG",
+      "released": "March 11, 2004"
+    },
+
+    {
+      "name": "Resident Evil Series",
+      "description": "Resident Evil, known in Japan as Biohazard, is a Japanese horror video game series and media franchise created by Capcom. The franchise follows people trying to survive outbreaks of zombies and other monsters created mainly by the pharmaceutical company Umbrella Corporation.",
+      "developer": "Capcom",
+      "platforms": "PlayStation, Windows, Sega Saturn, Nintendo DS, Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch, Amazon Luna, Stadia",
+      "publisher": "Capcom",
+      "genre": "Horror",
+      "released": "March 22, 1996"
+    },
+    {
+      "name": "Silent Hill Series",
+      "description": "Silent Hill is a survival horror video game for the PlayStation published by Konami and developed by Team Silent, a group in Konami Computer Entertainment Tokyo. The first installment in the Silent Hill series, the game was released in North America in February 1999, in Japan in March 1999 and in Europe in July 1999. Silent Hill uses a third-person view, with real-time rendering of 3D environments. To mitigate limitations of the console hardware, developers liberally used fog and darkness to muddle the graphics. Unlike earlier survival horror games that focused on protagonists with combat training, the player character of Silent Hill is an everyman.",
+      "developer": "Konami Computer Entertainment Tokyo (Team Silent)",
+      "platforms": "PlayStation, Game Boy Advance, PlayStation 2, Xbox, Microsoft Windows, PlayStation Portable, PlayStation 3, Xbox 360, Wii, PlayStation Vita, PlayStation 4",
+      "publisher": "Konami",
+      "genre": "Horror",
+      "released": "February 23, 1999"
+    },
+    {
+      "name": "Metro Exodus Series",
+      "description": "Metro Exodus is a first-person shooter game with survival horror and stealth elements. Set in the post-apocalyptic wasteland of the former Russian Federation and Republic of Kazakhstan, the player must cope with the new hazards and engage in combat against mutated creatures as well as hostile humans.[4][5] The player wields an arsenal of hand-made weaponry which can be customised through scavenging materials and a crafting system. The game features a mixture of linear levels and sandbox environments. It also includes a dynamic weather system, a day-night cycle, and environments that change along with the seasons as the story progresses. It is set over the course of one whole in-game year.",
+      "developer": "4A Games",
+      "platforms": "Microsoft Windows, PlayStation 4, Xbox One, Stadia, Luna, PlayStation 5, Xbox Series X/S, Linux, macOS",
+      "publisher": "Deep Silver",
+      "genre": "Horror",
+      "released": "February 15, 2019"
+    },
+    {
+      "name": "Dead Space Series",
+      "description": "Dead Space is a science fiction survival horror video game. Players take on the role of Isaac Clarke, controlling him through a third-person perspective. Players navigate the spaceship Ishimura, completing objectives given to Isaac during the narrative, solving physics-based puzzles within the environment, and fighting monsters dubbed Necromorphs. In some parts of the ship that have decompressed, Isaac must navigate the vacuum. While in the vacuum, Isaac has a limited air supply, which can be replenished by finding air tanks within the environment. Some areas are subject to zero-G, with both Isaac and specific enemy types able to jump between surfaces; these areas have dedicated puzzles.[2][4] During exploration of the Ishimura, Isaac finds ammunition for his weapons, health pickups, and Nodes that are used to both unlock special doors and upgrade weapons and Isaac's suit. At certain points in the ship, Isaac can access a store to buy supplies and ammunition. Isaac can use a navigation line, projected onto the floor on command, to find the next mission objective.",
+      "developer": "EA Redwood Shores",
+      "platforms": "PlayStation 3, Xbox 360, Microsoft Windows",
+      "publisher": "Electronic Arts",
+      "genre": "Horror",
+      "released": "October 13, 2008"
+    },
+    {
+      "name": "Outlast Series",
+      "description": "Outlast is a first-person survival horror video game developed and published by Red Barrels. The game revolves around a freelance investigative journalist, Miles Upshur, who decides to investigate a remote psychiatric hospital named Mount Massive Asylum, located deep in the mountains of Lake County, Colorado. The downloadable content Outlast: Whistleblower centers on Waylon Park, the man who led Miles there in the first place.",
+      "developer": "Red Barrels",
+      "platforms": "Microsoft Windows, PlayStation 4, Xbox One, Android, Linux, OS X, Nintendo Switch",
+      "publisher": "Red Barrels",
+      "genre": "Horror",
+      "released": "September 4, 2013"
+    },
+
+    {
+      "name": "Street Fighter Series",
+      "description": "In the present time, a very big international martial arts tournament has begun and it goes by the name Street Fighter. Sagat, the Emperor of Muay Thai, is the host of this tournament, the King of Street Fighters who hails from Thailand has organized his newly announced tournament by contacting four regions that are both English-speaking and Asian-speaking countries to assemble 10 other formidable Street Fighters, including Sagat’s own right-hand Muay Thai disciple, Adon. As the tournament is in progress, a 23-year-old, ki-harnessing, Shotokan-Karate master named Ryu has turned out to be the leader in the fighting ladder. Will Ryu be able stand a chance against Sagat after having what it takes to beat the other competing Street Fighters, or will he have his record broken by his own martial arts buddy Ken?",
+      "developer": "Capcom, Dimps (main series), Arika (Street Fighter EX series), Bandai Namco Studios (Warriors League series)",
+      "platforms": "Arcade, Dreamcast, GameCube, Microsoft Windows, Nintendo 64, Nintendo Switch, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, Sega Genesis, Sega Saturn, Super Nintendo Entertainment System, Xbox, Xbox 360, Xbox One, Xbox Series X/S",
+      "publisher": "Capcom",
+      "genre": "Fighting",
+      "released": "August 30, 1987"
+    },
+    {
+      "name": "Mortal Kombat Series",
+      "description": "Mortal Kombat is an arcade fighting game developed and published by Midway in 1992 it is the first entry in the Mortal Kombat series. It was subsequently released by Acclaim Entertainment for nearly every home platform of the time. The game focuses on several characters of various intentions who enter a martial arts tournament with worldly consequences. It introduced many key aspects of the Mortal Kombat series, including the unique five-button control scheme and gory finishing moves called Fatalities.",
+      "developer": "Midway Games,Avalanche Software, Eurocom, Just Games Interactive, Midway Studios Los Angeles, Other Ocean Interactive,Point of View, Inc., NetherRealm Studios",
+      "platforms": "Arcade, Dreamcast, GameCube, IBM PC compatible, Microsoft Windows, Nintendo 64, Nintendo Switch, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, Sega 32X, Sega CD, Sega Genesis, Sega Master System, Sega Saturn, Super Nintendo Entertainment System, Xbox, Xbox 360, Xbox One, Xbox Series X/S",
+      "publisher": "Midway Games, Williams Entertainment, Warner Bros. Interactive Entertainment",
+      "genre": "Fighting",
+      "released": "October 8, 1992"
+    
+    },
+    {
+      "name": "Tekken Series",
+      "description": "The main games in the series follow the events of the King of Iron Fist Tournament, hosted by the Mishima Zaibatsu, where players control a plethora of characters to win the tournament and gain control of the company; the conflict between the Mishima family serves as the main focus of the series' plot, while players explore other characters' motivations in aiming to control the Zaibatsu.Gameplay focuses on hand-to-hand combat with an opponent, with the gameplay system including blocks, throws, escapes, and ground fighting. The series later introduced combos and special moves, with characters also able to stage break arenas. Tekken is noted as being one of the first fighting games at the time to use 3D animation.",
+      "developer": "Bandai Namco Studios, Namco",
+      "platforms": "Android, Arcade, Game Boy Advance, iOS, Microsoft Windows, Nintendo 3DS, PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation Portable, Wii U, Xbox 360, Xbox One, Xbox Series X/S",
+      "publisher": "Bandai Namco Entertainment, Namco, Sony Computer Entertainment",
+      "genre": "Fighting"
+    },
+    {
+      "name": "Super Smash Bros Series",
+      "description": "Super Smash Bros. (retroactively referred to as Super Smash Bros. 64 or Smash 64) is a 1999 crossover fighting video game developed by HAL Laboratory and published by Nintendo for the Nintendo 64. It was first released in Japan on January 21, 1999, in North America on April 26, 1999, and in Europe on November 19, 1999. The first installment in the Super Smash Bros. series, it is a crossover between several different Nintendo franchises, including Mario, The Legend of Zelda, Star Fox, Yoshi, Donkey Kong, Metroid, F-Zero, Mother, Kirby, and Pokémon. It presents a cast of characters and locations from these franchises and allows players to use each character's unique skills and the stage's hazards to inflict damage, recover health, and ultimately knock opponents off the stage.",
+      "developer": "HAL Laboratory (1999–2001), Sora Ltd. (2008–present), Bandai Namco Studios (2014–present)",
+      "platforms": "Nintendo 64, iQue Player, GameCube, Wii, Nintendo 3DS, Wii U, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Fighting",
+      "released": "January 21, 1999"
+    },
+    {
+      "name": "Soulcalibur Series",
+      "description": "Soulcalibur is a weapon-based fighting video game franchise by Bandai Namco Entertainment. There are seven main installments of video games and various media spin-offs, including music albums and a series of manga books",
+      "developer": "Namco",
+      "platforms": "Arcade, PlayStation, Dreamcast, PlayStation 2, GameCube, Xbox, Wii, PlayStation 3, Xbox 360, PlayStation Portable, Microsoft Windows, PlayStation 4, Xbox One",
+      "publisher": "Bandai Namco Entertainment",
+      "genre": "Fighting",
+      "released": "December 1995"
+    },
+
+    {
+      "name": "Pac-Man",
+      "description": "Pac-Man is a maze arcade game developed and released by Namco in 1980. The original Japanese title of Puck Man was changed to Pac-Man for international releases as a preventative measure against defacement of the arcade machines by changing the P to an F. Outside Japan, the game was published by Midway Games as part of its licensing agreement with Namco America. The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. Eating large flashing dots called Power Pellets causes the ghosts to turn blue, allowing Pac-Man to eat them for bonus points.",
+      "developer": "Namco",
+      "platforms": "Arcade",
+      "publisher": "Namco, Midway",
+      "genre": "Retro Arcade",
+      "released": "July 1980"
+    },
+    {
+      "name": "Space Invaders",
+      "description": "Space Invaders is a 1978 arcade game developed by Tomohiro Nishikado. It was manufactured and sold by Taito in Japan and licensed in the United States by the Midway division of Bally. Within the shooter genre, Space Invaders was the first fixed shooter and set the template for the shoot 'em up genre. The goal is to defeat wave after wave of descending aliens with a horizontally moving laser to earn as many points as possible.",
+      "developer": "Taito",
+      "platforms": "Arcade, Atari 2600, Atari 5200, Atari 8-bit, MSX",
+      "publisher": "Taito, Midway",
+      "genre": "Retro Arcade",
+      "released": "July 1978"
+    },
+    {
+      "name": "Asteroids",
+      "description": "Asteroids is a space-themed multidirectional shooter arcade game designed by Lyle Rains and Ed Logg released in November 1979 by Atari, Inc. The player controls a single spaceship in an asteroid field which is periodically traversed by flying saucers. The object of the game is to shoot and destroy the asteroids and saucers, while not colliding with either, or being hit by the saucers' counter-fire. The game becomes harder as the number of asteroids increases.",
+      "developer": "Atari, Inc.",
+      "platforms": "Arcade, Atari 2600, Atari 7800, Atari 8-bit, Game Boy",
+      "publisher": "Atari, Inc.",
+      "genre": "Retro Arcade",
+      "released": "November 1979"
+    },
+    {
+      "name": "Galaga",
+      "description": "Galaga[a] is a 1981 fixed shooter arcade game developed and published by Namco. In North America, it was released by Midway Games. It is the sequel to Galaxian (1979), Namco's first major hit in arcades. Controlling a starship, the player is tasked with destroying the Galaga forces in each stage while avoiding enemies and projectiles. Some enemies can capture a player's ship via a tractor beam, which can be rescued to transform the player into a “dual fighter” with additional firepower.",
+      "developer": "Namco",
+      "platforms": "Arcade, SG-1000, MSX, Nintendo Entertainment System, Atari 7800, Game Boy, Mobile phone, Xbox 360, Roku, iOS, Xbox One, PlayStation 4, PC",
+      "publisher": "Namco, Midway",
+      "genre": "Retro Arcade",
+      "released": "September 1981"
+    },
+    {
+      "name": "Tetris",
+      "description": "Tetris (styled TETЯIS) is a puzzle game developed by Atari Games and originally released for arcades in 1988. Based on Alexey Pajitnov's Tetris, Atari Games' version features the same gameplay as the computer editions of the game, as players must stack differently shaped falling blocks to form and eliminate horizontal lines from the playing field. ",
+      "developer": "Atari Games",
+      "platforms": "Arcade, Nintendo Entertainment System (NES)",
+      "publisher": "Atari Games (arcade), Tengen (NES)",
+      "genre": "Retro Arcade",
+      "released": "May 1989"
+    },
+
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "description": "When an evil magician named Agahnim begins kidnapping young maidens in Hyrule in a quest to break the imprisoning seal on Ganon, a young boy named Link is called upon to stop him in this action-adventure classic.",
+      "developer": "Nintendo",
+      "platforms": "Super NES, Wii, New Nintendo 3DS, Wii U, Nintendo Switch",
+      "publisher": "Electro Source, Nintendo",
+      "genre": "Retro SNES",
+      "released":"November 21, 1992"
+      
+    },
+    {
+      "name": "Chrono Trigger",
+      "description": "When a newly developed teleportation device malfunctions at the Millennial Fair, young Crono must travel through time to rescue his misfortunate companion from an intricate web of past and present perils in Square's beloved RPG Chrono Trigger.",
+      "developer": "Square, Tose Software",
+      "platforms": "Super NES, PlayStation, Nintendo DS, Wii, PlayStation 3, PlayStation Portable, Android, iPhone, PC",
+      "publisher": "Square Enix, Electro Source, Square",
+      "genre": "Retro SNES",
+      "released":"March 11, 1995"
+      
+    },
+    {
+      "name": "Super Metroid",
+      "description": "In Super Metroid, players once again slip into the role of galactic bounty hunter Samus Aran and in an interesting twist on the previous games, attempt to retrieve the last surviving Metroid.",
+      "developer": "Nintendo, Nintendo R&D1, Intelligent Systems",
+      "platforms": "Super NES, Wii, Wii U, New Nintendo 3DS, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"December 31, 1994"
+      
+    },
+    {
+      "name": "Super Mario World",
+      "description": "There's no time for vacation when Bowser and his Koopalings are up to no good! Many hidden paths and a new friend called Yoshi aid Mario in making his way to Bowser's castle for the final confrontation to save the Princess!",
+      "developer": "Nintendo EAD, Nintendo",
+      "platforms": "Super NES, Wii, Wii U, New Nintendo 3DS, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"January 1, 1990"
+      
+    },
+    {
+      "name": "Super Street Fighter II Turbo",
+      "description": "This update to the classic Street Fighter II kicks everything up to Turbo levels -- more moves, playable bosses, incredible speed and so much more!",
+      "developer": "Capcom, Sensory Sweep",
+      "platforms": "Super NES, Xbox 360, Wii, Wii U, New Nintendo 3DS, Arcade",
+      "publisher": "Ingram Entertainment, Capcom",
+      "genre": "Retro SNES",
+      "released":"February 23, 1994"
+      
+    },
+    {
+      "name": "Super Mario World 2: Yoshi's Island",
+      "description": "Yoshi returns to save Baby Mario in SUPER MARIO WORLD 2: YOSHI'S ISLAND ! The Evil Magikoopa, Kamek, is out to kidnap Baby Mario. You play as Yoshi with a mission to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek's clever traps and evil minions. The levels have a unique, hand-sketched look that gives this game a style all its own.",
+      "developer": "Nintendo EAD",
+      "platforms": "Super NES, Nintendo Switch",
+      "publisher": "Electro Source, Nintendo",
+      "genre": "Retro SNES",
+      "released":"January 1, 1996"
+      
+    },
+    {
+      "name": "Super Mario Kart",
+      "description": "A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on. Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.",
+      "developer": "Nintendo EAD",
+      "platforms": "Super NES, Wii, Wii U, New Nintendo 3DS, Nintendo Switch",
+      "publisher": "Electro Source, Nintendo",
+      "genre": "Retro SNES",
+      "released":"April 12, 1992"
+      
+    },
+    {
+      "name": "Star Fox",
+      "description": "Several years after disaster was narrowly averted on Dinosaur Planet, Lylat Central Command detects a new threat spreading throughout the galaxy. The STAR FOX team is sent in to eradicate this growing menace, but what begins as a standard combat mission quickly takes a dramatic turn. Legendary team members Fox McCloud, Slippy Toad, Peppy Hare, and Falco Lombardi join forces to form the most formidable team in the history of this celebrated series: the Star Fox Armada.",
+      "developer": "Nintendo EAD, Argonaut Games",
+      "platforms": "Super NES, Nintendo Switch",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"March 1, 1993"
+      
+    },
+    {
+      "name": "Mega Man X",
+      "description": "Hundreds of years after his death, Dr. Light's final creation is discovered in Mega Man X, a revolutionary leap forward into the future for Capcom's action franchise.",
+      "developer": "Capcom",
+      "platforms": "Super NES, PC, Wii, iPhone, Wii U, New Nintendo 3DS",
+      "publisher": "Ingram Entertainment, Electro Source, Capcom",
+      "genre": "Retro SNES",
+      "released":"December 17, 1993"
+      
+    },
+    {
+      "name": "EarthBound",
+      "description": "You are Ness, a kid sleeping in his home when a alien comes to you and tells you that you along with three other kids are the only ones who can save the future of Earth. Your mission: find the other three chosen ones and then stop the horrible Gigayas who are going to invade Earth.",
+      "developer": "HAL Laboratory, Ape Inc.",
+      "platforms": "Super NES, Wii U, New Nintendo 3DS",
+      "publisher": "Nintendo",
+      "genre": "Retro SNES",
+      "released":"February 16, 1995"
+      
+    },
+    {
+      "name": "Super Mario Bros 3",
+      "description": "Super Mario Bros. 3 is a two-dimensional, side-scrolling platform game in which the player controls either Mario or Luigi. The game shares similar gameplay mechanics with previous games in the series — Super Mario Bros.",
+      "developer": "Nintendo EAD",
+      "platforms": "Nintendo Entertainment System, Game Boy Advance, Nintendo Switch, Wii, Nintendo 3DS, Wii U, PlayChoice-10",
+      "publisher": "Nintendo",
+      "genre": "Retro NES",
+      "released":"October 23, 1988"
+      
+    },
+    {
+      "name": "The Legend of Zelda",
+      "description": " Zelda was an action-adventure game with RPG elements, and in an age without the Internet, people were on their own about how to get through the game in one piece",
+      "developer": "Nintendo, Nintendo R&D4",
+      "platforms": "NES, Game Boy Advance, Wii, Nintendo 3DS, Wii U, Nintendo Switch, Famicom Disk System",
+      "publisher": "Ingram Entertainment, Nintendo",
+      "genre": "Retro NES",
+      "released":"July 1, 1987"
+      
+    },
+    {
+      "name": "Super Mario Bros",
+      "description": "In Super Mario Bros., the player takes on the role of Mario, the protagonist of the series. Mario's younger brother, Luigi, is controlled by the second player in the game's multiplayer mode and assumes the same plot role and functionality as Mario. The objective is to race through the Mushroom Kingdom, survive the main antagonist Bowser's forces, and save Princess Toadstool.[4]:7 The game is a side-scrolling platformer; the player moves from the left side of the screen to the right side in order to reach the flag pole at the end of each level.",
+      "developer": "Nintendo EAD",
+      "platforms": "NES",
+      "publisher": "Nintendo",
+      "genre": "Retro NES",
+      "released":"September 13, 1985"
+      
+    },
+    {
+      "name": "Mega Man 2",
+      "description": "As the robotic blue bomber, Mega Man, the player must battle through 14 levels and defeat eight robot masters before tackling the nefarious Dr. Wily.",
+      "developer": "Capcom",
+      "platforms": "NES, Wireless, Wii, iPhone, PlayStation Portable, PlayStation 3, Nintendo 3DS, Wii U, Android,",
+      "publisher": "Capcom",
+      "genre": "Retro NES",
+      "released":"July 30, 1989"
+      
+    },
+    {
+      "name": "Castlevania 3: Dracula's Curse",
+      "description": "Count Dracula is building up an army of evil that is set to conquer the land. This time, the vampire hunter isn't alone -- you will meet up with other characters that can join your party.",
+      "developer": "Konami",
+      "platforms": "NES, Wii, Nintendo 3DS, Wii U",
+      "publisher": "Konami",
+      "genre": "Retro NES",
+      "released":"December 31, 1990"
+      
+    },
+    {
+      "name": "Metroid",
+      "description": "In this classic game that combines action adventure and platform shooter play, players assume the role of Samus Aran, a space bounty hunter set the mission of saving the universe from the spread of the most dangerous creatures in the galaxy: Metroids.",
+      "developer": "Nintendo, Nintendo R&D1, Intelligent Systems",
+      "platforms": "Famicom Disk System, NES, Game Boy Advance, Wii, Nintendo 3DS, Wii U, Nintendo Switch",
+      "publisher": "Ingram Entertainment, Nintendo",
+      "genre": "Retro NES",
+      "released":"August 6, 1986"
+      
+    },
+    {
+      "name": "Mike Tyson's Punch-Out!!",
+      "description": "You are Little Mac, who may be the smallest boxer in the ring, but has a lot of heart. Battle your way through numerous comical boxers to fight Iron Mike for the World Video Boxing Association Title.",
+      "developer": "Nintendo R&D3",
+      "platforms": "NES",
+      "publisher": "Nintendo",
+      "genre": "Retro NES",
+      "released":"June 1, 1987"
+      
+    },
+    {
+      "name": "DuckTales",
+      "description": "Scrooge McDuck is the richest duck in the world. Regardless, he is searching the world for a lost treasure. He will have to explore jungles, castles, and mines to find all of the fortune. Help a rich duck get even richer in Duck Tales.",
+      "developer": "Capcom, Unknown",
+      "platforms": "NES, Game Boy",
+      "publisher": "Electro Source, Disney Interactive Studios, Capcom",
+      "genre": "Retro NES",
+      "released":"December 31, 1989"
+      
+    },
+    {
+      "name": "Contra",
+      "description": "In 2633 A.D., two armed Elite Marine Commandos Contra, named Bill Rizer and Lance Bean, are sent on a mission to neutralize a terrorist organization called Red Falcon that is secretly planning to take over the entire world, and it's up to this two-man-army to put an end to this madness once and for all.",
+      "developer": "Konami",
+      "platforms": "NES, Commodore 64, Arcade",
+      "publisher": "Konami",
+      "genre": "Retro NES",
+      "released":"February 20, 1987"
+      
+    },
+    {
+      "name": "Teenage Mutant Ninja Turtles II: The Arcade Game",
+      "description": "The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. Depending on the version of the game, the characters are either chosen via an in-game select screen or based on which coin slot the player placed their credit into. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder.",
+      "developer": "Konami",
+      "platforms": "NES, Commodore 64",
+      "publisher": "Konami",
+      "genre": "Retro NES",
+      "released":"November 15, 1989"
+      
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "description": "As a young boy, Link is tricked by Ganondorf, the King of the Gerudo Thieves. The evil human uses Link to gain access to the Sacred Realm, where he places his tainted hands on Triforce and transforms the beautiful Hyrulean landscape into a barren wasteland. Link is determined to fix the problems he helped to create, so with the help of Rauru he travels through time gathering the powers of the Seven Sages.",
+      "developer": "Nintendo EAD",
+      "platforms": "Nintendo 64",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"November 23, 1998"
+     
+    },
+    {
+      "name": "Super Mario 64",
+      "description": "Mario is super in a whole new way! Combining the finest 3D graphics ever developed for a video game and an explosive soundtrack, 'Super Mario 64' becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses, and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch-nemesis — Bowser, King of the Koopas!",
+      "developer": "Nintendo EAD",
+      "platforms": "Nintendo 64",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"June 23, 1996"
+      
+    },
+    {
+      "name": "Perfect Dark",
+      "description": "Step into the Dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs — breakthroughs which could have serious consequences for mankind.",
+      "developer": "Rare, 4J Studios, The Initiative",
+      "platforms": "Nintendo 64, Game Boy Color, Xbox 360",
+      "publisher": "Rare, Xbox Game Studios",
+      "genre": "Retro N64",
+      "released":"May 22, 2000"
+     
+    },
+    {
+      "name": "GoldenEye 007",
+      "description": "You are Bond. James Bond. You are assigned covert operations connected with the GoldenEye weapons satellite. M will brief you on your mission and objectives from London. Q Branch will support your efforts with a plentiful supply of weapons and gadgets. Moneypenny offers you light-hearted best wishes and you're off! Your mission begins in the heavily guarded chemical warfare facility at the Byelomorye Dam in the USSR. Look and shoot in any direction as you navigate 12 interactive 3D environments. Use stealth and force as you see fit in matters of international security. Consider the military personnel expendable. You are licensed to kill!",
+      "developer": "Rare",
+      "platforms": "Nintendo 64",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"August 25, 1997"
+      
+    },
+    {
+      "name": "Banjo-Kazooie",
+      "description": "Trouble is brewing on Spiral Mountain! Gruntilda the witch, wildly jealous of Tooty the Honey Bear's good looks; is determined to steal them for herself! But even as she whisks the helpless youngster off to her tower, Tooty's big brother Banjo and his loud-mouthed partner Kazooie are hot on the trail to rescue her… Aided by the mystical shaman Mumbo Jumbo, Banjo and Kazooie must tackle gloomy swamps, scorching deserts, towering mountain ranges and spooky haunted houses on their way to the final confrontation at the summit of Gruntilda's Lair.",
+      "developer": "Rare",
+      "platforms": "Nintendo 64, Game Boy Advance, mobile phone, Xbox 360, Xbox One",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"29 June 1998"
+      
+    },
+    {
+      "name": "Conker's Bad Fur Day",
+      "description": "The day after his 21st birthday bash, Conker's sporting the worst hangover ever, and he just can't seem to find his way home. Prepare to stagger through randy, raunchy, raucous scenarios crammed full of bad manners, twisted humor, and graphic bodily functions. Unless you're a fan of violence, foul language, and racy innuendo, you'd best steer clear of this one.",
+      "developer": "Rare",
+      "platforms": "Nintendo 64",
+      "publisher": "Rare",
+      "genre": "Retro N64",
+      "released":"March 4, 2001"
+      
+    },
+    {
+      "name": "Donkey Kong 64",
+      "description": "K. Rool has kidnapped the Kongs! Can Donkey Kong rescue his friends, reclaim the Golden Bananas and save his homeland from certain doom? Take out some Kremlings with Chunky's Pineapple Launcher or Lanky's Trombone. Float through the air using Tiny's Ponytail Twirl. Even rocket to the sky with Diddy's Jetbarrel!",
+      "developer": "Rare",
+      "platforms": "Nintendo 64",
+      "publisher": "Nintendo",
+      "genre": "Retro N64",
+      "released":"October 31, 1999"
+    
+    },
+    {
+      "name": "Resident Evil 2",
+      "description": "Resident Evil 2 is a 1998 survival horror video game developed and published by Capcom for the PlayStation. The player controls Leon S. Kennedy and Claire Redfield, who must escape Raccoon City after its citizens are transformed into zombies by a biological weapon two months after the events of the original Resident Evil. The gameplay focuses on exploration, puzzles, and combat; the main difference from its predecessor are the branching paths, with each player character having unique storylines, partners and obstacles.",
+      "developer": "Capcom",
+      "platforms": "PlayStation, Windows, Nintendo 64, Dreamcast, GameCube, Game.com",
+      "publisher": "Capcom",
+      "genre": "Retro N64",
+      "released":"January 21, 1998"
+    
+    },
+    {
+      "name": "Tony Hawk’s Pro Skater 2",
+      "description": "Tony Hawk's Pro Skater 2' redefined an already great game. Its addition of stellar new features (like Create-A-Park), and great game-play tweaks (the manual maneuver will be copied for years to come) made it the best installment in a killer series of games. Anyone who has ever skated the Philadelphia level will agree — this game is a masterpiece of level design. Hell, it's a masterpiece all around. There isn't a bad park or dull moment, just pure gaming nirvana!",
+      "developer": "Neversoft",
+      "platforms": "PlayStation, Microsoft Windows, Game Boy Color, Dreamcast, Game Boy Advance, Mac OS, Nintendo 64, iOS",
+      "publisher": "Activision",
+      "genre": "Retro N64",
+      "released":"August 21, 2001"
+      
+    },
+    {
+      "name": "Diddy Kong Racing",
+      "description": "Timber the Tiger's parents picked a fine time to go on vacation. When they come back, they're going to be faced with an island trashed by the spiteful space bully Wizpig - unless the local animals can do something about it! So join Diddy Kong as he teams up with Timber the Tiger, Pipsy the Mouse and Taj the Genie in an epic racing adventure unlike anything you've ever experienced before!",
+      "developer": "Rare",
+      "platforms": "Nintendo 64, Nintendo DS",
+      "publisher": "Rare",
+      "genre": "Retro N64",
+      "released":"November 24, 1997"
+      
+    }
+
+
+]
+  
