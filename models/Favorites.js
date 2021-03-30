@@ -44,7 +44,7 @@ Favorites.init(
           unique: false
 
         }
-      }
+      },
     },
     {
       sequelize,
