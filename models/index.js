@@ -1,8 +1,10 @@
+const Favorites = require('./Favorites');
+
 const User = require('./User');
 
 const Games = require('./Games');
 
-const Favorites = require('./Favorites');
+
 
 User.belongsToMany(Games, {
   // Define the third table needed to store the foreign keys
@@ -11,7 +13,8 @@ User.belongsToMany(Games, {
     unique: false
   },
   // Define an alias for when data is retrieved
-  as: 'user_favorites'
+  as: 'user_favorites',
+  foreignKey: 'user_id',
 });
 
 Games.belongsToMany(User, {
@@ -21,7 +24,8 @@ Games.belongsToMany(User, {
     unique: false
   },
   // Define an alias for when data is retrieved
-  as: 'favorited_games'
+  as: 'favorited_games',
+  foreignKey: 'games_id'
 });
 
 module.exports = { User, Games, Favorites };
