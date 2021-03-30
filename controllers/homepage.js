@@ -1,19 +1,23 @@
 const router = require('express').Router();
 
-const { Games, User } = require('../models');
+const { Games, User, Favorites } = require('../models');
 
 const withAuth = require('../utils/auth');
+
+
 
 router.get('/', async (req, res) => {
 
   try {
-    // Get all projects and JOIN with user data
-    const gamesData = await Project.findAll({
+
+    const gamesData = await Games.findAll({
 
       include: [
 
         {
           model: User,
+
+          as: 'favorited_games',
 
           attributes: ['name'],
 
@@ -22,12 +26,12 @@ router.get('/', async (req, res) => {
     });
 
     // Serialize data so the template can read it
-    const games = gamesData.map((project) => games.get({ plain: true }));
+    const games = gamesData.map((game) => game.get({ plain: true }));
 
     // Pass serialized data and session flag into template
     res.render('homepage', { 
 
-      games, 
+      ...games, 
 
       logged_in: req.session.logged_in 
 
@@ -35,31 +39,32 @@ router.get('/', async (req, res) => {
   } catch (err) {
 
     res.status(500).json(err);
+    console.log(err);
 
   }
 });
 
-router.get('/games/:id', async (req, res) => {
+router.get('/categories', async (req, res) => {
 
   try {
 
-    const gamesData = await Games.findByPk(req.params.id, {
+    const gamesData = await Games.findAll({
 
-      include: [
+      // include: [
 
-        {
-          model: User,
+      //   {
+      //     model: User,
 
-          attributes: ['name'],
+      //     attributes: ['name'],
 
-        },
+      //   },
 
-      ],
+      // ],
     });
 
-    const games = gamesData.get({ plain: true });
+    const games = gamesData.map((game) => game.get({ plain: true }));
 
-    res.render('project', {
+    res.render('categories', {
 
       ...games,
 
@@ -69,6 +74,7 @@ router.get('/games/:id', async (req, res) => {
   } catch (err) {
 
     res.status(500).json(err);
+    console.log(err);
 
   }
 });
@@ -82,7 +88,16 @@ router.get('/profile', withAuth, async (req, res) => {
 
       attributes: { exclude: ['password'] },
 
-      include: [{ model: Project }],
+      include: [
+        {
+          model: Games,
+
+          as: 'user_favorites',
+
+          attributes: ['name', 'genre'],
+        
+        },
+      ],
 
     });
 
@@ -90,14 +105,15 @@ router.get('/profile', withAuth, async (req, res) => {
 
     res.render('profile', {
 
-      ...user,
+      user,
 
-      logged_in: true
+      logged_in: req.session.login,
 
     });
   } catch (err) {
 
     res.status(500).json(err);
+    console.log(err);
 
   }
 });
