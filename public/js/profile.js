@@ -10,7 +10,7 @@ const newFormHandler = async (event) => {
   
     if (name && needed_funding && description) {
 
-      const response = await fetch(`/api/projects`, {
+      const response = await fetch(`/api/profile`, {
 
         method: 'POST',
 
