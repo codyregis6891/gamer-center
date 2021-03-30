@@ -81,15 +81,15 @@ router.get('/categories/sports', async (req, res) => {
 
     res.render('sports', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
     });
   } catch (err) {
 
-    res.status(500).json(err);
     console.log(err);
+    res.status(500).json(err);
 
   }
 });
