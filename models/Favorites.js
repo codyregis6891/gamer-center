@@ -27,7 +27,7 @@ Favorites.init(
           key: 'id',
           unique: false
         }
-      }
+      },
     },
     {
       sequelize,

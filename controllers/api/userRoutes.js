@@ -20,9 +20,10 @@ router.get('/', async (req, res) => {
   try {
     const userData = await User.findByPk(req.params.id, {
       
-      include: [{ model: Games, through: Favorites, as: 'favorited_games' }]
+      include: [{ model: Games, through: Favorites, as: 'user_favorites' }]
 
     });
+
     if (!userData) {
 
       res.status(404).json({ message: 'No user found with this id!' });
@@ -32,7 +33,7 @@ router.get('/', async (req, res) => {
     res.status(200).json(userData);
 
   } catch (err) {
-
+    console.log(err);
     res.status(500).json(err);
 
   }
