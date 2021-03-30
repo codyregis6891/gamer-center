@@ -7,8 +7,6 @@ router.get('/', async (req, res) => {
 
   const gameData = await Games.findAll();
 
-  console.log(gameData)
-
   res.json(gameData)
 
  });
@@ -58,6 +56,40 @@ router.post('/', async (req, res) => {
     res.status(400).json(err);
 
   }
+});
+
+router.put('/:id', async (req, res) => {
+
+  try {
+
+    const updateGame = await Games.update(
+
+    {
+
+      name: req.body.name,
+      description: req.body.description,
+      developer: req.body.developer,
+      platforms: req.body.platforms,
+      publisher: req.body.publisher,
+      genre: req.body.genre,
+      released: req.body.released,
+
+    },
+    {
+
+      where: {
+        id: req.params.id,
+      },
+
+    });
+
+    res.status(200).json(updateGame);
+
+  } catch (err) {
+
+      res.status(500).json(err);
+
+    };
 });
 
 
