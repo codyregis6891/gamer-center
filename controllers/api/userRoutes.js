@@ -74,7 +74,11 @@ router.post('/login', async (req, res) => {
 
   try {
 
-    const userData = await User.findOne({ where: { email: req.body.email } });
+    const userData = await User.findOne({
+      where: {
+        email: req.body.email,
+      },
+    });
 
     if (!userData) {
 
@@ -144,8 +148,6 @@ router.delete('/:id',  async (req, res) => {
       where: {
 
         id: req.params.id,
-
-        user_id: req.session.user_id,
 
       },
     });
