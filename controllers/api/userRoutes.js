@@ -2,6 +2,8 @@ const router = require('express').Router();
 
 const { User, Games, Favorites } = require('../../models');
 
+var validator = require("email-validator");
+
 
 
 router.get('/', async (req, res) => {
@@ -54,9 +56,16 @@ router.post('/', async (req, res) => {
 
       req.session.loggedIn = true;
 
+      req.session.user_id = userData.id;
+
+      req.session.username = userData.username;
+      
+
       res.status(200).json(userData);
 
     });
+
+    // validator.validate(req.body.email);
 
   } catch (err) {
 

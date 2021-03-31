@@ -15,4 +15,3 @@ While we each plan on contributing and collaborating throughout the entirety of 
 	--Erick will be heading the back-end functions
 	--Edward will be heading the layout, UI, responsiveness
 	--Cody will be heading the front-end javascript functionality
-Also attached are three basic wireframes of how we envision our site layout at this point in time.
