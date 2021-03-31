@@ -29,7 +29,7 @@
 
                             <h5>
 
-                            {{name}}
+                            {{user.username}}
 
                             </h5>
 
@@ -50,7 +50,7 @@
                                                 <label>User Id</label>
                                             </div>
                                             <div class="col-md-6">
-                                                <p>{{id}}</p>
+                                                <p>{{user.id}}</p>
                                             </div>
                                         </div>
                                         <div class="row">
@@ -58,7 +58,7 @@
                                                 <label>Name</label>
                                             </div>
                                             <div class="col-md-6">
-                                                <p>{{name}}</p>
+                                                <p>{{user.username}}</p>
                                             </div>
                                         </div>
                                         <div class="row">
@@ -66,17 +66,17 @@
                                                 <label>Email</label>
                                             </div>
                                             <div class="col-md-6">
-                                                <p>{{email}}</p>
+                                                <p>{{user.email}}</p>
                                             </div>
                                         </div>
-                                        <div class="row">
+                                        {{!-- <div class="row">
                                             <div class="col-md-6">
                                                 <label>Password</label>
                                             </div>
                                             <div class="col-md-6">
                                                 <p>{{password}}</p>
                                             </div>
-                                        </div>
+                                        </div> --}}
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <label>Profession</label>
@@ -124,7 +124,10 @@
             <img class="d-block w-100" src="https://upload.wikimedia.org/wikipedia/en/2/20/Escape_from_Tarkov.jpg" alt="First slide">
             <div class="carousel-caption d-none d-md-block">
                 
-                <h5>My Favorie Games </h5>
+                <h5>My Favorite Games </h5>
+                {{#each user.user_favorites as |fav| }}
+                <p>{{fav.name}}</p>
+                {{/each}}
                 
             </div>
         </div>
