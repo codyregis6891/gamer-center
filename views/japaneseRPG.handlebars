@@ -1,1 +1,9 @@
-<h1>{{games.name.[0]}}</h1>
+
+{{#each games as |game| }}
+<div class="row align-center mb-5">
+  <div class="col-md-6">
+    <h2> {{game.name}}</h2>
+  </div>
+</div>
+{{/each}}
+
