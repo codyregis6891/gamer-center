@@ -253,33 +253,6 @@ router.get('/platformers', async (req, res) => {
 });
 
 
-router.get('/survival', async (req, res) => {
-
-  try {
-
-    const gamesData = await Games.findAll({
-      where: {
-        genre: 'Survival',
-      },
-    });
-
-    const games = gamesData.map((game) => game.get({ plain: true }));
-
-    res.render('survival', {
-
-      games: games,
-
-      logged_in: req.session.logged_in
-
-    });
-  } catch (err) {
-
-    res.status(500).json(err);
-    console.log(err);
-
-  }
-});
-
 
 router.get('/japaneserpg', async (req, res) => {
 
