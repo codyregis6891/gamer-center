@@ -4,7 +4,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+{{!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
@@ -31,7 +31,7 @@
 
                             <h5>
 
-                            {{name}}
+                            {{user.username}}
 
                             </h5>
 
@@ -52,7 +52,7 @@
                                                 <label>User Id</label>
                                             </div>
                                             <div class="col-md-6">
-                                                <p>{{id}}</p>
+                                                <p>{{user.id}}</p>
                                             </div>
                                         </div>
                                         <div class="row">
@@ -60,7 +60,7 @@
                                                 <label>Name</label>
                                             </div>
                                             <div class="col-md-6">
-                                                <p>{{name}}</p>
+                                                <p>{{user.username}}</p>
                                             </div>
                                         </div>
                                         <div class="row">
@@ -68,17 +68,17 @@
                                                 <label>Email</label>
                                             </div>
                                             <div class="col-md-6">
-                                                <p>{{email}}</p>
+                                                <p>{{user.email}}</p>
                                             </div>
                                         </div>
-                                        <div class="row">
+                                        {{!-- <div class="row">
                                             <div class="col-md-6">
                                                 <label>Password</label>
                                             </div>
                                             <div class="col-md-6">
                                                 <p>{{password}}</p>
                                             </div>
-                                        </div>
+                                        </div> --}}
                                         <div class="row">
                                             <div class="col-md-6">
                                                 <label>Profession</label>
@@ -126,7 +126,10 @@
             <img class="d-block w-100" src="https://upload.wikimedia.org/wikipedia/en/2/20/Escape_from_Tarkov.jpg" alt="First slide">
             <div class="carousel-caption d-none d-md-block">
                 
-                <h5>My Favorie Games</h5>
+                <h5>My Favorite Games </h5>
+                {{#each user.user_favorites as |fav| }}
+                <p>{{fav.name}}</p>
+                {{/each}}
                 
             </div>
         </div>
