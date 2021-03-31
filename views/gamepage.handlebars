@@ -1,44 +1,58 @@
+<h1>{{game.name}}</h1>
+
 <div class="row">
 
-  <div class="col-8">
-      <div class="row">
-          <div class="col-12 col-md-4">              
-              <div class="row">
-                  <div class="col-12">
-                      Game Image
-                  </div>
-                  <div class="col-12">
-                      Game Video
-                  </div>
-              </div>
-          </div>
-          <div class="col-12 col-md-8">
-              <div class="row">
-                  <div class="col-12">
-                      Game Description and Rating
-                  </div>
-                  <div class="col-12">
-                      Reviews
-                  </div>
-                  <div class="col-12">
-                      FAQ/Walkthrough
-                  </div>
-              </div>
-          </div>
-      </div>
-  </div>
+    <div class="col-12 col-md-4">  
 
-  <div class="col-4">
-      <div class="row">
-          <div class="col-12">
-              Comment Section
-          </div>
-          {{#if logged_in}}
-          <h3>Add Comment</h3>
-          <div type="input" class="col-12">
-          </div>
-          {{/if}}
-      </div>
-  </div>
+        <div class="row">
+
+            <div class="col-12 m-2">
+
+                <img src="https://upload.wikimedia.org/wikipedia/en/a/af/Fallout.jpg" alt="Fallout Series">
+
+            </div>
+
+            <div class="col-12">
+
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/M9FGaan35s0" allowfullscreen></iframe>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="col-12 col-md-8">
+
+        <div class="row">
+
+            <div class="col-12 py-2">
+
+                <h3>About the Game</h3>
+                <p>{{game.description}}</p>
+
+            </div>
+
+            <div class="col-12 py-2">
+
+                <h3>Reviews</h3>
+                <p>"This is a great game"<br>
+                -Edward Arana</p>
+
+            </div>
+
+            <div class="col-12">
+
+                <h3><a href="https://www.ign.com/wikis/fallout-76/" target="_blank">FAQ/Walkthrough</a></h3>
+
+            </div>
+
+        </div>
+
+    </div>
 
 </div>
+
+<script src="./js/index.js"></script>
