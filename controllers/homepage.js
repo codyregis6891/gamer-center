@@ -57,7 +57,7 @@ router.get('/categories', async (req, res) => {
   }
 });
 
-router.get('/categories/sports', async (req, res) => {
+router.get('/sports', async (req, res) => {
 
   try {
 
@@ -85,7 +85,7 @@ router.get('/categories/sports', async (req, res) => {
 });
 
 
-router.get('/categories/action-adventure', async (req, res) => {
+router.get('/action-adventure', async (req, res) => {
 
   try {
 
@@ -113,7 +113,7 @@ router.get('/categories/action-adventure', async (req, res) => {
 });
 
 
-router.get('/categories/rpg', async (req, res) => {
+router.get('/rpg', async (req, res) => {
 
   try {
 
@@ -141,7 +141,7 @@ router.get('/categories/rpg', async (req, res) => {
 });
 
 
-router.get('/categories/fps', async (req, res) => {
+router.get('/fps', async (req, res) => {
 
   try {
 
@@ -169,7 +169,7 @@ router.get('/categories/fps', async (req, res) => {
 });
 
 
-router.get('/categories/racing', async (req, res) => {
+router.get('/racing', async (req, res) => {
 
   try {
 
@@ -197,7 +197,7 @@ router.get('/categories/racing', async (req, res) => {
 });
 
 
-router.get('/categories/survival', async (req, res) => {
+router.get('/survival', async (req, res) => {
 
   try {
 
@@ -225,7 +225,7 @@ router.get('/categories/survival', async (req, res) => {
 });
 
 
-router.get('/categories/platformers', async (req, res) => {
+router.get('/platformers', async (req, res) => {
 
   try {
 
@@ -253,7 +253,7 @@ router.get('/categories/platformers', async (req, res) => {
 });
 
 
-router.get('/categories/survival', async (req, res) => {
+router.get('/survival', async (req, res) => {
 
   try {
 
@@ -281,7 +281,7 @@ router.get('/categories/survival', async (req, res) => {
 });
 
 
-router.get('/categories/japaneserpg', async (req, res) => {
+router.get('/japaneserpg', async (req, res) => {
 
   try {
 
@@ -309,7 +309,7 @@ router.get('/categories/japaneserpg', async (req, res) => {
 });
 
 
-router.get('/categories/horror', async (req, res) => {
+router.get('/horror', async (req, res) => {
 
   try {
 
@@ -337,7 +337,7 @@ router.get('/categories/horror', async (req, res) => {
 });
 
 
-router.get('/categories/fighting', async (req, res) => {
+router.get('/fighting', async (req, res) => {
 
   try {
 
@@ -365,7 +365,7 @@ router.get('/categories/fighting', async (req, res) => {
 });
 
 
-router.get('/categories/retro-arcade', async (req, res) => {
+router.get('/retro-arcade', async (req, res) => {
 
   try {
 
@@ -393,7 +393,7 @@ router.get('/categories/retro-arcade', async (req, res) => {
 });
 
 
-router.get('/categories/retro-snes', async (req, res) => {
+router.get('/retro-snes', async (req, res) => {
 
   try {
 
@@ -421,7 +421,7 @@ router.get('/categories/retro-snes', async (req, res) => {
 });
 
 
-router.get('/categories/retro-nes', async (req, res) => {
+router.get('/retro-nes', async (req, res) => {
 
   try {
 
@@ -449,7 +449,7 @@ router.get('/categories/retro-nes', async (req, res) => {
 });
 
 
-router.get('/categories/retro-n64', async (req, res) => {
+router.get('/retro-n64', async (req, res) => {
 
   try {
 
@@ -526,7 +526,7 @@ router.get('/profile', async (req, res) => {
 
       user: user,
 
-      logged_in: req.session.login,
+      logged_in: req.session.logged_in,
 
     });
   } catch (err) {
