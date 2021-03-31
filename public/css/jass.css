@@ -347,6 +347,10 @@
   *::after {
     box-sizing: border-box;
   }
+
+  footer {
+    text-align: center;
+  }
   
   html,
   body {
