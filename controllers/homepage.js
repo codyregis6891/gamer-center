@@ -10,28 +10,18 @@ router.get('/', async (req, res) => {
 
   try {
 
-    const gamesData = await Games.findAll({
-
-      include: [
-
-        {
-          model: User,
-
-          as: 'favorited_games',
-
-          attributes: ['username'],
-
-        },
-      ],
-    });
+    const gamesData = await Games.findAll({});
 
     // Serialize data so the template can read it
+
     const games = gamesData.map((game) => game.get({ plain: true }));
 
     // Pass serialized data and session flag into template
     res.render('homepage', { 
+      
+      games: games,
 
-      ...games, 
+      username: req.session.username,
 
       logged_in: req.session.logged_in 
 
@@ -531,7 +521,6 @@ router.get('/profile', async (req, res) => {
     });
 
     const user = userData.get({ plain: true });
-    console.log(user)
 
     res.render('profile', {
 
@@ -553,7 +542,7 @@ router.get('/login', (req, res) => {
   // If the user is already logged in, redirect the request to another route
   if (req.session.logged_in) {
 
-    res.redirect('/profile');
+    res.redirect('/');
 
     return;
 
