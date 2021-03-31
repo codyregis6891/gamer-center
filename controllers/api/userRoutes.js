@@ -2,8 +2,6 @@ const router = require('express').Router();
 
 const { User, Games, Favorites } = require('../../models');
 
-const withAuth = require('../../utils/auth');
-
 
 
 router.get('/', async (req, res) => {
@@ -46,7 +44,7 @@ router.post('/', async (req, res) => {
 
     const userData = await User.create({
 
-      name: req.body.name,
+      username: req.body.username,
       email: req.body.email,
       password: req.body.password,
 

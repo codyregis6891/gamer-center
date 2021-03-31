@@ -19,7 +19,7 @@ router.get('/', async (req, res) => {
 
           as: 'favorited_games',
 
-          attributes: ['name'],
+          attributes: ['username'],
 
         },
       ],
@@ -54,7 +54,7 @@ router.get('/categories', async (req, res) => {
 
     res.render('categories', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -81,15 +81,15 @@ router.get('/categories/sports', async (req, res) => {
 
     res.render('sports', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
     });
   } catch (err) {
 
-    res.status(500).json(err);
     console.log(err);
+    res.status(500).json(err);
 
   }
 });
@@ -109,7 +109,7 @@ router.get('/categories/action-adventure', async (req, res) => {
 
     res.render('actionAdventure', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -137,7 +137,7 @@ router.get('/categories/rpg', async (req, res) => {
 
     res.render('rpg', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -165,7 +165,7 @@ router.get('/categories/fps', async (req, res) => {
 
     res.render('fps', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -193,7 +193,7 @@ router.get('/categories/racing', async (req, res) => {
 
     res.render('racing', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -221,7 +221,7 @@ router.get('/categories/survival', async (req, res) => {
 
     res.render('survival', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -249,7 +249,7 @@ router.get('/categories/platformers', async (req, res) => {
 
     res.render('platformers', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -277,7 +277,7 @@ router.get('/categories/survival', async (req, res) => {
 
     res.render('survival', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -305,7 +305,7 @@ router.get('/categories/japaneserpg', async (req, res) => {
 
     res.render('japaneseRPG', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -333,7 +333,7 @@ router.get('/categories/horror', async (req, res) => {
 
     res.render('horror', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -361,7 +361,7 @@ router.get('/categories/fighting', async (req, res) => {
 
     res.render('fighting', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -389,7 +389,7 @@ router.get('/categories/retro-arcade', async (req, res) => {
 
     res.render('retroArcade', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -417,7 +417,7 @@ router.get('/categories/retro-snes', async (req, res) => {
 
     res.render('retroSNES', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -445,7 +445,7 @@ router.get('/categories/retro-nes', async (req, res) => {
 
     res.render('retroNES', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -473,7 +473,7 @@ router.get('/categories/retro-n64', async (req, res) => {
 
     res.render('retroN64', {
 
-      ...games,
+      games: games,
 
       logged_in: req.session.logged_in
 
@@ -497,7 +497,7 @@ router.get('/game/:id', async (req, res) => {
     const game = gameData.get({ plain: true });
 
     // Send over the 'loggedIn' session variable to the 'homepage' template
-    res.render('gamepage', { game, loggedIn: req.session.loggedIn });
+    res.render('gamepage', { game: game, loggedIn: req.session.loggedIn });
 
   } catch (err) {
 
@@ -509,11 +509,11 @@ router.get('/game/:id', async (req, res) => {
 
 
 // Use withAuth middleware to prevent access to route
-router.get('/profile', async (req, res) => {
+router.get('/profile', withAuth, async (req, res) => {
 
   try {
     // Find the logged in user based on the session ID
-    const userData = await User.findByPk(1, {
+    const userData = await User.findByPk(req.session.user_id, {
 
       attributes: { exclude: ['password'] },
 
@@ -534,7 +534,7 @@ router.get('/profile', async (req, res) => {
 
     res.render('profile', {
 
-      user,
+      user: user,
 
       logged_in: req.session.login,
 
