@@ -9,9 +9,9 @@
 
   <title>Gamer Center</title>
 
-  <link rel="stylesheet" href="/css/jass.css">
+  <link rel="stylesheet" type="text/css" href="/css/jass.css">
 
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
 
 </head>
 
@@ -20,9 +20,8 @@
   <header class="display-flex justify-space-between align-center p-2">
 
     <h1>
-      
-      <a href="/homepage" class="btn btn-info" role="button">Gamer Center</a>
-      
+
+      <a href="/" class="btn" id="homepage">Gamer Center</a>
 
     </h1>
     <!-- Only display the logout button if the user is logged in -->
@@ -35,9 +34,9 @@
 
        <a href="/profile" class="btn btn-info" role="button">Profile</a>
 
-       <a href="/js/logout.js" class="btn btn-info" role="button">Logout</a>
+       {{!-- <a href="/js/logout.js" class="btn btn-info" role="button">Logout</a> --}}
 
-      <button class="btn" id="logout">Logout</button>
+      <button class="btn btn-info" id="logout">Logout</button>
 
     </nav>
 
@@ -48,7 +47,7 @@
 
        <a href="/profile" class="btn btn-info" role="button">Profile</a>
 
-       <a href="/js/login.js" class="btn btn-info" role="button">Login</a>
+       <a href="/login" class="btn btn-info" role="button">Login</a>
 
     </nav>
 
