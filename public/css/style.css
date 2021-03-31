@@ -32,9 +32,14 @@ header, .project:not(:last-child) {
 }
 
 #homepage {
-  font-size: larger;
+  font-size: 4rem;
 }
 
 #needlogin {
   margin-bottom: 50%;
+}
+
+.card {
+  background-color: black;
+  color: white;
 }
