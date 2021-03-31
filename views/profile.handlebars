@@ -92,48 +92,43 @@
 
 {{!-- Carousel STARTS HERE --}}
 
+
+<h5 style="text-align: center;">My Favorite Games </h5>
+
+    {{#each user.user_favorites as |fav| }}
+
+    <p style="text-align: center;">{{fav.name}}</p>
+
+    {{/each}}
+
+
 <div class="row justify-space-between">
 
 <div class="card col-12 col-md-3 m-2">
+<img src="https://upload.wikimedia.org/wikipedia/en/a/af/Fallout.jpg" alt="Fallout Series">
   <div class="card-body">
     <h4 class="card-title">Fallout Series</h4>
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/af/Fallout.jpg" alt="Fallout Series">
     <a href="game/11" class="btn btn-info " role="button">View Game</a>
   </div>
 </div>
 
 <div class="card col-12 col-md-3 m-2">
+<img class="d-block w-15" src="https://giantbomb1.cbsistatic.com/uploads/scale_small/15/155745/2255523-cover_depan_gta_1.jpg" alt="Grand Theft Auto">
   <div class="card-body">
     <h4 class="card-title">Grand Theft Auto Series</h4>
-    <img class="d-block w-15" src="https://giantbomb1.cbsistatic.com/uploads/scale_small/15/155745/2255523-cover_depan_gta_1.jpg" alt="Second slide">
+    
     <a href="game/12" class="btn btn-info " role="button">View Game</a>
   </div>
 </div>
 
 <div class="card col-12 col-md-3 m-2">
+    <img class="d-block w-15" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Mortal_Kombat_3_cover.JPG" alt="Mortal Kombat">
   <div class="card-body">
     <h4 class="card-title">Mortal Kombat Series</h4>
-     <img class="d-block w-15" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Mortal_Kombat_3_cover.JPG" alt="Third slide">
     <a href="game/47" class="btn btn-info " role="button">View Game</a>
   </div>
 </div>
-
 </div>
-
-            
-           
-                
-                <h5>My Favorite Games </h5>
-                {{#each user.user_favorites as |fav| }}
-                <p>{{fav.name}}</p>
-                {{/each}}
-   
-            {{!-- <img class="d-block w-15" src="https://giantbomb1.cbsistatic.com/uploads/scale_small/15/155745/2255523-cover_depan_gta_1.jpg" alt="Second slide">
-  
-            <img class="d-block w-15" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Mortal_Kombat_3_cover.JPG" alt="Third slide"> --}}
-     
-
-      
   
 {{else}}
 <h1 id="needlogin">You must be logged in to view a profile!</h1>
